@@ -135,7 +135,8 @@ The Power BI dashboard includes:
 
 ### Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="1303" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/e9e87245-04c5-423e-9d82-e6076a7dd727" />
+
 
 Example:
 
@@ -234,5 +235,5 @@ Aspiring Data Analyst passionate about:
 - Business Intelligence
 - Dashboard Development
 
-GitHub: (your GitHub link)  
-LinkedIn: (your LinkedIn link)
+GitHub: https://github.com/MhdAfifT
+LinkedIn: http://www.linkedin.com/in/muhammad-afif-taimullah-557496248
