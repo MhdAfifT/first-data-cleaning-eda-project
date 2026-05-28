@@ -137,13 +137,6 @@ The Power BI dashboard includes:
 
 <img width="1303" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/e9e87245-04c5-423e-9d82-e6076a7dd727" />
 
-
-Example:
-
-```md
-![Dashboard Preview](images/dashboard.png)
-```
-
 ---
 
 ## 💡 Key Insights
@@ -169,20 +162,20 @@ Example findings:
 ## 📁 Project Structure
 
 ```text
-E-Commerce-Sales-Analysis/
-│── data/
-│   ├── raw_dataset.csv
-│   ├── cleaned_dataset.csv
+first-data-cleaning-eda-project/
+│── data_source/
+│   ├── messy_ecommerce_sales_data.csv
+│   ├── clean_ecommerce_sales_data.csv
 │
 │── sql/
 │   ├── data_cleaning.sql
-│   ├── eda_queries.sql
+│   ├── exploratory_data-analysis.sql
 │
 │── dashboard/
-│   ├── ecommerce_dashboard.pbix
+│   ├── dashboard.pbix
 │
 │── images/
-│   ├── dashboard_preview.png
+│   ├── dashboard.png
 │
 │── README.md
 ```
@@ -194,7 +187,7 @@ E-Commerce-Sales-Analysis/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-sales-analysis.git
+git clone https://github.com/MhdAfifT/first-data-cleaning-eda-project.git
 ```
 
 ### 2. Import Dataset into MySQL
@@ -212,7 +205,7 @@ data_cleaning.sql
 Then:
 
 ```sql
-eda_queries.sql
+exploratory_data-analysis.sql
 ```
 
 ### 4. Open Power BI Dashboard
@@ -220,7 +213,7 @@ eda_queries.sql
 Open:
 
 ```text
-ecommerce_dashboard.pbix
+dashboard.pbix
 ```
 
 ---
