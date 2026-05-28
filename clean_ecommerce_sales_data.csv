@@ -1,0 +1,501 @@
+order_id,customer_name,city,product_category,product_name,quantity,unit_price,total_price,payment_method,order_date
+ORD-1001,"Evan wood",Unknown,Books,"Data Analytics 101",1,372.07,372.07,COD,2025-09-04
+ORD-1002,"David joseph",Yogyakarta,Fashion,"Denim Jacket",5,18.14,90.7,"Credit Card",2024-12-29
+ORD-1003,"David tate",Bali,Fashion,"Oversized Hoodie",3,459.11,27546.6,E-Wallet,2025-05-10
+ORD-1003-1,"Jane barnes",Surabaya,"Home & Living","Air Fryer",2,111.58,223.16,QRIS,2024-09-30
+ORD-1004,"Michelle norris",Medan,Beauty,"Face Serum",5,150.12,750.6,"Credit Card",2024-06-05
+ORD-1005,"Megan mitchell",Surabaya,Groceries,"Organic Coffee",1,193.16,193.16,"Bank Transfer",2024-07-24
+ORD-1006,"William shields",Bali,Fashion,"Denim Jacket",2,85.88,171.76,"Cash On Delivery",2024-06-06
+ORD-1007,"Erin riley",Bali,Electronics,"Bluetooth Speaker",4,137.53,550.12,"Bank Transfer",2024-11-30
+ORD-1007-1,"Meghan mcintosh",Medan,Groceries,"Organic Coffee",2,400.78,801.56,QRIS,2024-09-11
+ORD-1007-2,"Nathan huber",Jakarta,Electronics,"Wireless Mouse",5,463.73,2318.65,"Bank Transfer",2025-10-07
+ORD-1008,"Betty bernard",Unknown,Fashion,"Oversized Hoodie",5,271.79,1358.95,"Bank Transfer",2024-12-18
+ORD-1009,"Michael martinez",Yogyakarta,Groceries,"Organic Coffee",2,315.59,631.18,"Cash On Delivery",2026-04-17
+ORD-1009-1,"Kristen pena",Surabaya,Sports,"Yoga Mat",5,491.89,2459.45,QRIS,2024-08-20
+ORD-1010,"Ashley larson",Bandung,Electronics,"Gaming Keyboard",5,376.68,1883.4,Unknown,2024-08-30
+ORD-1010-1,"Jade miller",Bandung,"Home & Living","Desk Lamp",2,496.46,992.92,Unknown,2024-08-15
+ORD-1011,"Nancy pruitt",Semarang,Electronics,"Gaming Keyboard",3,421.63,1264.89,"Credit Card",2024-07-31
+ORD-1012,"Danny daniels",Semarang,Groceries,"Instant Noodles",4,452.9,1811.6,"Cash On Delivery",2025-05-23
+ORD-1012-1,"Robert hernandez",Medan,Beauty,"Face Serum",1,464.9,464.9,"Credit Card",2025-05-08
+ORD-1013,"Kendra lopez",Medan,Beauty,"Lip Tint",2,136.2,272.4,QRIS,2026-04-29
+ORD-1014,"Alicia hurst dvm",Bandung,Sports,"Dumbbell Set",1,127.71,127.71,"Cash On Delivery",2025-01-10
+ORD-1015,"Judith thompson",Bandung,Electronics,"Bluetooth Speaker",1,259.51,259.51,COD,2026-03-15
+ORD-1016,"Katie grimes",Surabaya,Sports,"Dumbbell Set",1,316.5,316.5,QRIS,2026-02-12
+ORD-1016-1,"Michael deleon",Bali,Fashion,"Oversized Hoodie",1,331.2,331.2,"Credit Card",2024-10-05
+ORD-1017,"Jeffrey jacobs",Surabaya,Groceries,"Organic Coffee",2,99.84,199.68,E-Wallet,2025-01-23
+ORD-1018,"Norman marshall",Bandung,Sports,"Yoga Mat",1,463.55,463.55,QRIS,2024-07-18
+ORD-1019,"William wilson",Bali,Groceries,"Instant Noodles",3,214.39,643.17,E-Wallet,2025-08-05
+ORD-1020,"Brandy anthony",Surabaya,Groceries,"Cooking Oil",3,242.44,727.32,E-Wallet,2025-04-28
+ORD-1020-1,"Rachael rose",Jakarta,Electronics,"Wireless Mouse",5,241.01,1205.05,QRIS,2024-09-17
+ORD-1021,"Jessica orozco",Medan,Sports,"Yoga Mat",5,299.29,1496.45,"Cash On Delivery",2025-09-10
+ORD-1022,"Edward santos",Medan,Beauty,"Face Serum",3,231.33,693.99,"Credit Card",2026-03-07
+ORD-1022-1,"Richard chapman",Semarang,"Home & Living","Air Fryer",3,113.13,339.39,QRIS,2025-06-29
+ORD-1023,"Nancy jordan",Semarang,Fashion,"Running Shoes",3,83.08,249.24,COD,2025-03-16
+ORD-1023-1,"Veronica graham",Semarang,Sports,Football,4,241.68,966.72,"Credit Card",2024-12-17
+ORD-1024,"Brian king",Medan,Beauty,"Face Serum",5,65.99,329.95,"Credit Card",2026-01-16
+ORD-1024-1,"Erin mays",Medan,Fashion,"Running Shoes",1,445.41,445.41,"Credit Card",2025-08-28
+ORD-1025,"Jeremy carpenter",Bandung,"Home & Living","Desk Lamp",1,318.97,318.97,COD,2024-12-05
+ORD-1026,"Tyler davidson",Bandung,Electronics,"Wireless Mouse",2,275.07,550.14,"Credit Card",2025-07-06
+ORD-1027,"Virginia benson",Unknown,Fashion,"Denim Jacket",2,335.13,670.26,"Cash On Delivery",2025-09-27
+ORD-1028,"Ashley daniels",Bandung,Beauty,"Lip Tint",5,146.8,734,COD,2024-09-24
+ORD-1028-1,"Willie evans",Yogyakarta,Groceries,"Organic Coffee",4,17.27,69.08,QRIS,2024-06-03
+ORD-1029,"Katherine novak",Unknown,Electronics,"Bluetooth Speaker",1,430,430,"Bank Transfer",2025-08-24
+ORD-1030,"Natalie ramirez",Medan,"Home & Living","Desk Lamp",3,178.82,536.46,"Bank Transfer",2024-08-29
+ORD-1031,"Colleen lewis",Medan,"Home & Living","Desk Lamp",1,300.3,300.3,"Cash On Delivery",2025-01-04
+ORD-1032,"Lisa larson",Unknown,Electronics,"Gaming Keyboard",5,344.99,1724.95,"Credit Card",2025-01-07
+ORD-1033,"Jamie santana",Bandung,"Home & Living","Office Chair",3,335.11,1005.33,"Credit Card",2025-07-20
+ORD-1034,"Anthony parker",Medan,"Home & Living","Air Fryer",5,417.69,2088.45,"Cash On Delivery",2024-07-13
+ORD-1035,"Debra hahn",Surabaya,Groceries,"Cooking Oil",2,331.13,662.26,"Credit Card",2026-09-02
+ORD-1036,"Donald davidson",Yogyakarta,Fashion,"Oversized Hoodie",1,126.2,126.2,E-Wallet,2024-07-25
+ORD-1037,"Steven wood",Semarang,Fashion,"Oversized Hoodie",1,446.87,446.87,COD,2026-01-10
+ORD-1038,"Randy sharp",Yogyakarta,Groceries,"Instant Noodles",5,494.01,2470.05,"Cash On Delivery",2026-01-22
+ORD-1039,"Elizabeth mcclure",Semarang,Books,"SQL for Beginners",4,133.3,533.2,"Cash On Delivery",2024-11-22
+ORD-1040,"Francisco beltran",Bali,"Home & Living","Air Fryer",5,44.89,224.45,"Credit Card",2024-08-28
+ORD-1042,"Erin dixon",Yogyakarta,Groceries,"Instant Noodles",5,375.02,1875.1,"Credit Card",2025-09-25
+ORD-1043,"Bradley parrish",Medan,Groceries,"Instant Noodles",2,490.46,980.92,Unknown,2026-01-07
+ORD-1044,"Julie orozco",Surabaya,"Home & Living","Air Fryer",3,109.77,329.31,QRIS,2025-07-19
+ORD-1045,"Joshua williams",Semarang,Sports,"Yoga Mat",3,115.99,347.97,"Credit Card",2024-12-26
+ORD-1046,"Jon maxwell",Surabaya,Beauty,"Lip Tint",1,284.16,284.16,"Credit Card",2025-12-13
+ORD-1047,"Travis ramsey",Yogyakarta,Electronics,"Gaming Keyboard",1,464.8,464.8,COD,2024-09-14
+ORD-1048,"Angela white",Yogyakarta,Groceries,"Instant Noodles",5,403.74,2018.7,COD,2024-10-26
+ORD-1049,"Veronica taylor",Bali,Electronics,"Bluetooth Speaker",3,319.61,958.83,"Cash On Delivery",2025-06-26
+ORD-1050,"Christopher miles",Yogyakarta,Groceries,"Cooking Oil",5,137.86,689.3,"Credit Card",2025-01-10
+ORD-1051,"Mrs. alicia glover",Medan,Groceries,"Instant Noodles",2,246.34,492.68,COD,2024-02-07
+ORD-1052,"Adam davis md",Yogyakarta,Books,"SQL for Beginners",4,279.81,1119.24,E-Wallet,2026-02-04
+ORD-1053,"Jessica myers",Surabaya,Sports,"Dumbbell Set",4,278.97,1115.88,"Bank Transfer",2024-03-09
+ORD-1054,"April camacho",Yogyakarta,"Home & Living","Desk Lamp",5,475.68,2378.4,"Bank Transfer",2025-12-01
+ORD-1055,"Nicholas black",Bandung,Groceries,"Organic Coffee",3,117.6,352.8,Unknown,2024-05-06
+ORD-1056,"Christopher campbell",Surabaya,Groceries,"Instant Noodles",1,437,437,"Credit Card",2025-01-11
+ORD-1057,"David schmidt",Medan,Beauty,Sunscreen,1,290.63,290.63,"Bank Transfer",2025-05-09
+ORD-1058,"Louis williams",Unknown,Groceries,"Cooking Oil",2,388.97,777.94,"Cash On Delivery",2026-05-03
+ORD-1059,"Tiffany hodges",Jakarta,Fashion,"Missing Product",2,136,272,Unknown,2025-03-05
+ORD-1060,"Eric mcbride",Surabaya,"Home & Living","Office Chair",3,352.98,1058.94,QRIS,2026-10-03
+ORD-1061,"Christian reyes",Surabaya,Sports,"Yoga Mat",2,454.66,909.32,"Cash On Delivery",2025-12-17
+ORD-1062,"Nancy zavala",Medan,"Home & Living","Office Chair",4,471.62,1886.48,"Credit Card",2025-12-05
+ORD-1063,"Crystal cole",Semarang,Books,"Python Crash Course",5,475.64,2378.2,QRIS,2024-08-12
+ORD-1064,"Robert khan phd",Bali,Sports,"Dumbbell Set",4,484.68,1938.72,"Credit Card",2024-09-22
+ORD-1065,"Kristin owens md",Semarang,Beauty,"Lip Tint",1,230.14,4602.7999375,E-Wallet,2025-11-19
+ORD-1066,"Kenneth weber",Bandung,Fashion,"Denim Jacket",3,313.2,939.6,"Bank Transfer",2025-03-16
+ORD-1067,"Thomas turner",Jakarta,Books,"Python Crash Course",2,356.34,712.68,"Credit Card",2025-06-25
+ORD-1068,"Brittany hicks",Yogyakarta,Fashion,"Running Shoes",3,256.89,770.67,"Credit Card",2024-08-21
+ORD-1069,"Toni hawkins",Bali,"Home & Living","Air Fryer",3,467.45,1402.35,"Bank Transfer",2025-06-26
+ORD-1070,"James nguyen",Semarang,Beauty,Sunscreen,3,278.2,834.6,"Credit Card",2025-07-19
+ORD-1071,"John briggs",Bandung,Books,"Missing Product",4,196.11,784.44,E-Wallet,2025-08-21
+ORD-1072,"Katherine ward",Semarang,Groceries,"Instant Noodles",1,265.35,265.35,COD,2025-01-07
+ORD-1073,"Thomas griffin",Surabaya,Books,"SQL for Beginners",1,426.62,426.62,COD,2026-02-11
+ORD-1074,"Marissa parsons",Semarang,Fashion,"Denim Jacket",3,498.73,1496.19,COD,2026-04-22
+ORD-1075,"Mason george",Yogyakarta,Electronics,"Bluetooth Speaker",1,150.22,150.22,"Cash On Delivery",2025-09-21
+ORD-1076,"Connie clark",Bali,Fashion,"Running Shoes",5,75.84,379.2,"Credit Card",2026-07-03
+ORD-1077,"Dr. anna gonzalez md",Surabaya,"Home & Living","Office Chair",3,321.27,963.81,"Credit Card",2026-01-28
+ORD-1078,"Meghan jackson",Semarang,Sports,"Dumbbell Set",3,15.86,47.58,COD,2024-08-29
+ORD-1079,"Peter pearson",Bali,"Home & Living","Desk Lamp",5,401.96,2009.8,QRIS,2025-05-07
+ORD-1080,"Tamara roy",Jakarta,Books,"Data Analytics 101",3,395.36,1186.08,"Bank Transfer",2025-06-03
+ORD-1081,"Tom walker",Semarang,"Home & Living","Desk Lamp",3,457.45,1372.35,"Bank Transfer",2024-05-12
+ORD-1082,"Marcus park",Jakarta,Books,"Python Crash Course",4,483.8,1935.2,"Bank Transfer",2025-03-03
+ORD-1083,"Michelle phillips",Medan,Groceries,"Cooking Oil",3,58.63,175.89,"Bank Transfer",2024-11-10
+ORD-1084,"Anthony myers",Yogyakarta,"Home & Living","Office Chair",4,62.75,251,"Credit Card",2025-11-29
+ORD-1085,"Jonathan matthews",Bali,Books,"Python Crash Course",5,212.47,1062.35,"Credit Card",2025-03-09
+ORD-1086,"Brandon fernandez",Bali,"Home & Living","Desk Lamp",4,225.12,900.48,"Bank Transfer",2024-08-15
+ORD-1087,"Nathaniel davis",Jakarta,Electronics,"Missing Product",1,333.07,333.07,QRIS,2026-03-05
+ORD-1088,"Todd hayes",Medan,Groceries,"Cooking Oil",2,295.26,590.52,"Credit Card",2026-01-19
+ORD-1089,"Anita sanchez",Surabaya,Electronics,"Gaming Keyboard",1,70.24,70.24,"Credit Card",2024-05-12
+ORD-1090,"Michael duncan",Medan,Beauty,Sunscreen,3,259.05,777.15,"Credit Card",2025-08-27
+ORD-1091,"Patrick peterson md",Yogyakarta,Electronics,"Wireless Mouse",4,424.41,1697.64,"Credit Card",2024-12-28
+ORD-1092,"Melissa miller",Yogyakarta,Books,"Python Crash Course",5,357.52,1787.6,"Cash On Delivery",2026-04-02
+ORD-1093,"Daniel jimenez",Yogyakarta,Fashion,"Running Shoes",3,414.57,1243.71,"Bank Transfer",2024-12-06
+ORD-1094,"Jennifer sanchez",Medan,Groceries,"Organic Coffee",1,218.78,218.78,"Credit Card",2025-06-01
+ORD-1095,"Thomas haney",Surabaya,Groceries,"Cooking Oil",4,434.71,1738.84,"Bank Transfer",2026-04-24
+ORD-1096,"Michael bishop",Semarang,Electronics,"Bluetooth Speaker",5,186.94,934.7,"Cash On Delivery",2025-10-06
+ORD-1097,"Tyler huang",Surabaya,Books,"Python Crash Course",3,19.33,57.99,Unknown,2026-02-26
+ORD-1098,"Brenda terry",Surabaya,Books,"Python Crash Course",1,50.42,50.42,"Credit Card",2026-01-03
+ORD-1099,"Nicole bishop",Yogyakarta,Fashion,"Oversized Hoodie",5,29.63,148.15,"Cash On Delivery",2025-06-01
+ORD-1100,"Sara roth",Medan,Electronics,"Bluetooth Speaker",5,245.88,1229.4,Unknown,2025-05-04
+ORD-1101,"Kristina pittman",Unknown,"Home & Living","Air Fryer",1,8.83,8.83,COD,2025-12-21
+ORD-1102,"Tiffany martinez",Medan,Groceries,"Cooking Oil",1,220.93,220.93,E-Wallet,2024-09-05
+ORD-1103,"Kenneth parker",Semarang,"Home & Living","Desk Lamp",5,232.75,1163.75,"Credit Card",2025-09-06
+ORD-1104,"Jacob williams",Medan,Books,"SQL for Beginners",2,169.87,339.74,"Cash On Delivery",2025-09-04
+ORD-1105,"Mary mendoza",Bandung,Fashion,"Running Shoes",2,90.88,181.76,QRIS,2025-09-19
+ORD-1106,"Christine morton",Yogyakarta,Sports,Football,5,164.99,824.95,E-Wallet,2025-02-04
+ORD-1107,"Terrence martinez",Semarang,"Home & Living","Air Fryer",4,23.62,94.48,QRIS,2025-08-07
+ORD-1108,"Tonya davis",Yogyakarta,Groceries,"Cooking Oil",2,164.16,328.32,"Credit Card",2025-07-28
+ORD-1109,"Kristine martinez",Surabaya,Fashion,"Oversized Hoodie",2,355.27,710.54,"Bank Transfer",2025-10-14
+ORD-1110,"Patricia parks",Bali,Books,"SQL for Beginners",1,168.2,168.2,QRIS,2024-12-30
+ORD-1111,"Danielle kane",Medan,Books,"Data Analytics 101",3,158.56,475.68,COD,2024-05-07
+ORD-1112,"Bridget trevino",Surabaya,Books,"Python Crash Course",5,51.26,256.3,"Bank Transfer",2026-01-03
+ORD-1113,"Alexandria johnson",Bali,Fashion,"Oversized Hoodie",1,151.42,151.42,Unknown,2025-11-26
+ORD-1114,"Kim waters",Yogyakarta,Fashion,"Oversized Hoodie",2,416.52,833.04,"Credit Card",2026-04-25
+ORD-1115,"Maria brown",Yogyakarta,Groceries,"Cooking Oil",4,120.83,483.32,QRIS,2025-09-21
+ORD-1116,"Lauren garza",Bandung,"Home & Living","Air Fryer",5,266.09,1330.45,QRIS,2024-07-17
+ORD-1117,"Jeremy stephens",Bandung,Sports,"Yoga Mat",3,46.52,139.56,QRIS,2025-06-04
+ORD-1118,"Tina robertson",Surabaya,Electronics,"Bluetooth Speaker",1,201.24,201.24,Unknown,2024-12-21
+ORD-1120,"Lucas jensen",Jakarta,Sports,Football,5,266.25,1331.25,"Credit Card",2025-02-26
+ORD-1121,"Justin kelly",Surabaya,Beauty,"Lip Tint",5,13.14,65.7,Unknown,2025-05-02
+ORD-1122,"Cheryl morgan",Medan,Electronics,"Gaming Keyboard",3,38.5,115.5,Unknown,2025-10-09
+ORD-1123,"John chavez",Bali,"Home & Living","Office Chair",1,181.76,181.76,"Credit Card",2024-12-02
+ORD-1124,"Michael duffy",Bali,"Home & Living","Office Chair",2,416.04,832.08,"Credit Card",2025-08-27
+ORD-1125,"Adam alexander jr.",Semarang,Fashion,"Oversized Hoodie",2,443.47,886.94,"Cash On Delivery",2024-09-16
+ORD-1126,"Latasha price",Yogyakarta,Groceries,"Organic Coffee",3,140.24,420.72,E-Wallet,2024-05-28
+ORD-1127,"Angie banks",Bandung,Sports,"Dumbbell Set",1,364.91,364.91,"Cash On Delivery",2024-07-21
+ORD-1128,"Mark tyler",Semarang,Sports,Football,4,87.49,349.96,"Bank Transfer",2024-03-08
+ORD-1129,"Rodney brown",Bandung,Books,"SQL for Beginners",3,258.98,776.94,QRIS,2026-03-31
+ORD-1130,"Christina gomez",Yogyakarta,Books,"SQL for Beginners",3,194.51,583.53,"Bank Transfer",2025-02-20
+ORD-1131,"Scott dunn",Yogyakarta,Books,"SQL for Beginners",2,480.46,960.92,"Cash On Delivery",2025-11-18
+ORD-1132,"Emily moreno",Bali,"Home & Living","Office Chair",4,104.09,416.36,E-Wallet,2025-04-26
+ORD-1133,"Corey hicks",Bali,Books,"Data Analytics 101",5,273.37,1366.85,COD,2025-04-10
+ORD-1134,"Janice horton",Medan,Fashion,"Running Shoes",1,183.64,183.64,"Credit Card",2026-03-26
+ORD-1135,"Christine crane",Bali,Groceries,"Instant Noodles",5,41.51,207.55,"Cash On Delivery",2025-11-25
+ORD-1136,"Brenda farrell",Surabaya,Fashion,"Running Shoes",5,455.8,2279,"Credit Card",2026-03-16
+ORD-1137,"Christopher baird",Medan,"Home & Living","Desk Lamp",5,140.85,704.25,COD,2025-06-29
+ORD-1138,"Brandon schultz",Bandung,Sports,"Yoga Mat",1,45.21,45.21,QRIS,2024-11-17
+ORD-1139,"Tamara kemp",Bali,"Home & Living","Air Fryer",2,403.32,806.64,"Credit Card",2024-10-21
+ORD-1140,"Dwayne cooper",Surabaya,"Home & Living","Office Chair",3,368.43,1105.29,"Cash On Delivery",2024-12-13
+ORD-1141,"Daniel mcdonald",Semarang,Fashion,"Oversized Hoodie",1,148.65,148.65,"Credit Card",2025-10-30
+ORD-1142,"Bianca young",Yogyakarta,Beauty,"Lip Tint",4,251.89,1007.56,"Cash On Delivery",2024-05-09
+ORD-1143,"Andrew edwards",Surabaya,Beauty,"Lip Tint",4,146.45,585.8,COD,2026-04-23
+ORD-1144,"Paul johnson",Surabaya,Fashion,"Running Shoes",5,147.86,739.3,QRIS,2024-09-18
+ORD-1145,"John todd",Medan,Groceries,"Instant Noodles",5,469.78,2348.9,Unknown,2025-04-15
+ORD-1146,"Angela maldonado",Medan,Fashion,"Denim Jacket",5,74.19,370.95,COD,2025-06-07
+ORD-1147,"Mark nelson",Unknown,"Home & Living","Air Fryer",1,187.34,187.34,QRIS,2025-02-22
+ORD-1148,"Brent ward",Bali,Books,"Python Crash Course",5,117.63,588.15,COD,2026-03-04
+ORD-1149,"David becker",Bandung,Books,"Data Analytics 101",2,14.37,28.74,E-Wallet,2024-08-30
+ORD-1150,"Paul drake phd",Bandung,Sports,"Yoga Mat",5,165.9,829.5,E-Wallet,2026-05-05
+ORD-1151,"Brett perry",Semarang,Fashion,"Oversized Hoodie",3,281.25,843.75,"Bank Transfer",2026-01-08
+ORD-1152,"Billy brooks",Yogyakarta,Groceries,"Cooking Oil",3,147.46,442.38,QRIS,2025-06-21
+ORD-1153,"Robin mercado",Bandung,Books,"Data Analytics 101",3,462.38,1387.14,QRIS,2024-10-03
+ORD-1154,"Desiree washington",Bandung,Books,"Python Crash Course",2,125.02,250.04,"Credit Card",2024-09-03
+ORD-1155,"Gregory tucker",Surabaya,Sports,"Yoga Mat",4,328.18,1312.72,"Bank Transfer",2025-04-07
+ORD-1156,"Eduardo ochoa",Semarang,Books,"Data Analytics 101",2,211.85,423.7,E-Wallet,2025-04-16
+ORD-1157,"Aaron mills",Medan,Electronics,"Bluetooth Speaker",5,303.38,1516.9,"Cash On Delivery",2024-07-16
+ORD-1158,"Sheila thompson",Jakarta,Groceries,"Organic Coffee",3,85.43,256.29,COD,2025-05-25
+ORD-1159,"Stephanie rodgers",Jakarta,Groceries,"Cooking Oil",4,414.36,1657.44,"Credit Card",2025-06-21
+ORD-1160,"Anna lindsey",Surabaya,Fashion,"Running Shoes",3,477.25,1431.75,COD,2025-09-03
+ORD-1161,"Leslie clay",Bali,Beauty,"Missing Product",5,461.94,2309.7,"Bank Transfer",2025-10-04
+ORD-1162,"Jon wang",Semarang,Books,"Python Crash Course",3,210.84,632.52,COD,2024-06-28
+ORD-1163,"Casey wiggins",Medan,Sports,Football,3,43.66,130.9799375,"Credit Card",2024-06-16
+ORD-1164,"Timothy leonard",Bandung,Fashion,"Denim Jacket",5,246.97,1234.85,"Cash On Delivery",2024-07-13
+ORD-1165,"Diane david",Bali,Beauty,Sunscreen,1,374.17,374.17,"Credit Card",2025-01-24
+ORD-1166,"Jeanette williams dds",Yogyakarta,Beauty,"Face Serum",2,384.08,768.16,E-Wallet,2024-05-13
+ORD-1168,"Laura brown",Bali,Groceries,"Organic Coffee",2,233.01,466.02,QRIS,2024-06-30
+ORD-1169,"Caitlin robles",Bandung,Electronics,"Wireless Mouse",5,21.62,108.1,Unknown,2024-08-10
+ORD-1170,"Anne lopez",Bandung,"Home & Living","Desk Lamp",5,162.86,814.3,"Bank Transfer",2025-06-09
+ORD-1171,"Jason krueger",Yogyakarta,Electronics,"Gaming Keyboard",5,440.46,2202.3,"Credit Card",2024-07-27
+ORD-1172,"James anderson",Surabaya,Beauty,"Face Serum",3,191.35,574.05,QRIS,2026-03-31
+ORD-1173,"Thomas avery",Yogyakarta,Sports,Football,2,197.27,394.54,QRIS,2025-10-18
+ORD-1174,"Mark chang",Bali,Books,"Python Crash Course",5,24.58,122.9,COD,2025-12-12
+ORD-1175,"Steven campbell",Bandung,Electronics,"Wireless Mouse",2,481.23,962.46,COD,2024-06-13
+ORD-1176,"Jacqueline reyes",Yogyakarta,Beauty,Sunscreen,5,326.12,1630.6,E-Wallet,2025-02-15
+ORD-1177,"Peter drake",Medan,"Home & Living","Air Fryer",4,27.63,110.52,"Cash On Delivery",2024-11-05
+ORD-1178,"Tyler cook",Yogyakarta,Sports,"Yoga Mat",4,277.57,1110.28,COD,2026-04-24
+ORD-1179,"Richard blackwell",Medan,Books,"Python Crash Course",4,96.1,384.4,"Credit Card",2025-04-14
+ORD-1180,"Kelly turner",Surabaya,Beauty,"Face Serum",2,38.64,77.28,"Credit Card",2024-07-06
+ORD-1181,"Jesse reed",Medan,Electronics,"Wireless Mouse",5,278.06,1390.3,Unknown,2025-10-20
+ORD-1182,"Wanda williamson dds",Surabaya,Electronics,"Gaming Keyboard",2,124.28,248.56,QRIS,2024-09-17
+ORD-1183,"Kenneth mccullough md",Yogyakarta,Fashion,"Running Shoes",1,328.6,6572,E-Wallet,2025-09-09
+ORD-1184,"Brandon wilson",Bandung,Groceries,"Instant Noodles",3,285.1,855.3,"Credit Card",2026-04-13
+ORD-1185,"Tara herrera",Semarang,Electronics,"Gaming Keyboard",3,450.16,1350.48,Unknown,2025-07-01
+ORD-1186,"Dr. anthony lynch",Yogyakarta,"Home & Living","Desk Lamp",5,124.03,620.15,QRIS,2024-10-12
+ORD-1187,"Hannah williams",Medan,"Home & Living","Desk Lamp",1,221.36,221.36,E-Wallet,2024-05-31
+ORD-1188,"Jeremy snyder",Semarang,"Home & Living","Office Chair",4,218.76,875.04,"Cash On Delivery",2026-02-21
+ORD-1189,"Veronica vasquez",Surabaya,Books,"Python Crash Course",2,371.13,742.26,E-Wallet,2025-12-19
+ORD-1190,"Jamie washington",Medan,Sports,Football,5,206.98,20698,"Cash On Delivery",2025-04-30
+ORD-1191,"Sara dixon",Yogyakarta,Electronics,"Gaming Keyboard",5,453.08,2265.4,"Credit Card",2025-05-23
+ORD-1192,"Leon wilson",Bali,"Home & Living","Air Fryer",3,244.69,734.07,COD,2026-03-27
+ORD-1193,"Jonathan henderson",Semarang,Beauty,Sunscreen,5,193.05,965.25,QRIS,2024-07-25
+ORD-1194,"Jennifer hutchinson",Semarang,Fashion,"Running Shoes",3,149.27,447.81,"Credit Card",2025-01-14
+ORD-1195,"Nicole valdez",Bali,Sports,"Yoga Mat",5,498.65,2493.25,E-Wallet,2026-02-03
+ORD-1196,"Stefanie bailey",Bali,Groceries,"Instant Noodles",4,73.89,295.56,E-Wallet,2024-05-14
+ORD-1197,"Katherine riley",Medan,Sports,Football,4,274.1,1096.4,COD,2025-01-15
+ORD-1199,"Katherine mays",Jakarta,Beauty,Sunscreen,5,346.77,1733.85,"Bank Transfer",2024-10-19
+ORD-1200,"Stephen carpenter",Bali,"Home & Living","Air Fryer",2,262.95,525.9,E-Wallet,2026-04-03
+ORD-1201,"Elijah durham",Medan,"Home & Living","Office Chair",1,340.18,340.18,"Credit Card",2024-08-05
+ORD-1202,"Christopher williams",Medan,Beauty,"Lip Tint",2,97.26,3890.4,"Credit Card",2025-07-24
+ORD-1203,"Lisa morgan",Yogyakarta,Groceries,"Cooking Oil",1,290.79,290.79,"Credit Card",2025-07-11
+ORD-1204,"Henry sutton",Semarang,Sports,"Dumbbell Set",5,61.54,307.7,COD,2024-05-31
+ORD-1205,"Matthew moore",Yogyakarta,"Home & Living","Desk Lamp",2,156.16,312.32,E-Wallet,2025-10-11
+ORD-1206,"Lauren becker",Semarang,Books,"Python Crash Course",2,279.68,559.36,E-Wallet,2024-07-15
+ORD-1207,"Kevin mcpherson",Bali,Groceries,"Instant Noodles",5,255.19,1275.95,QRIS,2025-05-05
+ORD-1208,"Julian butler",Yogyakarta,"Home & Living","Desk Lamp",5,147.89,739.45,"Cash On Delivery",2026-01-26
+ORD-1209,"Brittany carpenter",Semarang,Groceries,"Organic Coffee",4,275.44,1101.76,"Credit Card",2025-05-04
+ORD-1210,"Jennifer martin",Bali,Electronics,"Bluetooth Speaker",1,388.94,388.94,"Bank Transfer",2025-05-29
+ORD-1211,"Tracey holmes",Surabaya,Groceries,"Organic Coffee",1,287.19,287.19,COD,2024-05-26
+ORD-1212,"James rodriguez",Bandung,Groceries,"Instant Noodles",1,496.28,496.28,"Credit Card",2024-12-17
+ORD-1213,"Michelle torres",Semarang,Sports,Football,3,315.77,947.31,"Credit Card",2025-05-06
+ORD-1214,"Jose edwards",Bali,Beauty,Sunscreen,5,6.22,31.1,COD,2025-01-24
+ORD-1215,"Julie best",Medan,Beauty,"Face Serum",4,137.93,551.72,QRIS,2024-09-23
+ORD-1216,"Robert brown",Yogyakarta,Books,"SQL for Beginners",1,66.5,66.5,"Credit Card",2025-04-18
+ORD-1217,"Brian haley",Jakarta,"Home & Living","Desk Lamp",3,128.94,386.82,E-Wallet,2024-08-25
+ORD-1218,"Sherri reilly",Bali,Books,"Data Analytics 101",1,110.64,110.64,Unknown,2025-10-09
+ORD-1219,"Deborah hart",Surabaya,Beauty,"Face Serum",2,194.62,389.24,"Bank Transfer",2024-12-17
+ORD-1220,"Michael jarvis",Surabaya,Books,"Data Analytics 101",1,267.6,267.6,COD,2025-06-23
+ORD-1221,"Susan moreno",Yogyakarta,Electronics,"Wireless Mouse",2,377.46,754.92,"Bank Transfer",2024-10-21
+ORD-1222,"Dakota daniels",Surabaya,Sports,Football,5,146.04,730.2,"Credit Card",2025-01-24
+ORD-1223,"Steven sullivan",Medan,Groceries,"Organic Coffee",4,196.01,784.04,"Credit Card",2025-04-07
+ORD-1224,"Alex bell",Surabaya,Books,"Data Analytics 101",4,477.45,1909.8,Unknown,2024-09-05
+ORD-1225,"Anna bryan",Bandung,Sports,"Dumbbell Set",4,352.4,1409.6,"Bank Transfer",2026-02-13
+ORD-1226,"Amanda robbins",Jakarta,Beauty,"Lip Tint",1,158.53,158.53,"Credit Card",2025-02-22
+ORD-1227,"David pittman",Yogyakarta,Books,"Python Crash Course",2,64.12,128.24,"Bank Transfer",2024-06-20
+ORD-1228,"Sarah davis",Medan,Books,"SQL for Beginners",1,386.86,386.86,"Credit Card",2026-03-25
+ORD-1229,"Rebecca butler",Jakarta,"Home & Living","Missing Product",4,430.38,1721.52,"Cash On Delivery",2026-01-23
+ORD-1230,"Sandra summers",Semarang,Groceries,"Organic Coffee",2,27.76,55.52,"Credit Card",2024-10-18
+ORD-1231,"John schroeder",Bali,Fashion,"Running Shoes",3,139.27,417.81,"Credit Card",2025-05-05
+ORD-1232,"Charles schwartz",Surabaya,Beauty,Sunscreen,3,167.01,501.03,"Cash On Delivery",2026-04-20
+ORD-1233,"Dr. anna le md",Jakarta,Beauty,"Face Serum",5,381.44,1907.2,"Credit Card",2025-09-20
+ORD-1234,"Corey carter",Bandung,Electronics,"Gaming Keyboard",4,425.26,1701.04,E-Wallet,2024-08-19
+ORD-1235,"Maria bryant",Medan,Fashion,"Denim Jacket",4,351.92,1407.68,"Credit Card",2024-09-07
+ORD-1236,"Jonathan miller",Semarang,Fashion,"Oversized Hoodie",3,134.19,402.57,COD,2025-05-24
+ORD-1237,"Dustin powers",Jakarta,Groceries,"Cooking Oil",1,81.93,81.93,"Cash On Delivery",2025-06-21
+ORD-1238,"Scott fisher",Jakarta,Electronics,"Wireless Mouse",2,404.76,809.52,"Credit Card",2025-05-15
+ORD-1239,"Erica sanchez",Yogyakarta,Beauty,"Lip Tint",1,340.21,340.21,QRIS,2024-05-31
+ORD-1240,"Charles williams",Surabaya,Groceries,"Missing Product",1,10.92,10.92,COD,2024-12-01
+ORD-1241,"Garrett waters",Semarang,Electronics,"Wireless Mouse",1,102.89,102.89,QRIS,2025-08-15
+ORD-1242,"Mark boyd",Bandung,Sports,"Dumbbell Set",4,250.58,1002.32,"Credit Card",2025-03-09
+ORD-1243,"Heather mason",Bandung,Beauty,Sunscreen,5,242.12,1210.6,COD,2026-01-23
+ORD-1245,"Kimberly anderson",Bali,Beauty,"Lip Tint",3,384.59,1153.77,"Credit Card",2025-12-01
+ORD-1246,"Katherine reyes",Semarang,Fashion,"Denim Jacket",4,180.63,722.52,COD,2026-03-25
+ORD-1247,"Jeffrey taylor",Jakarta,Sports,"Yoga Mat",5,474.44,47444,"Credit Card",2024-02-12
+ORD-1248,"Alejandro williams",Surabaya,Sports,"Yoga Mat",2,173.68,347.36,Unknown,2025-07-12
+ORD-1249,"Heather ramirez",Surabaya,Groceries,"Instant Noodles",1,189.93,189.93,"Bank Transfer",2026-05-02
+ORD-1250,"Leslie brown",Medan,Fashion,"Denim Jacket",5,348.31,1741.55,QRIS,2026-04-07
+ORD-1251,"Jacqueline bell",Semarang,Electronics,"Gaming Keyboard",5,198.84,994.2,"Cash On Delivery",2025-09-16
+ORD-1252,"Timothy reyes",Semarang,Electronics,"Wireless Mouse",3,491.28,1473.84,COD,2024-09-28
+ORD-1253,"Sarah jackson",Yogyakarta,Fashion,"Denim Jacket",1,178.49,178.49,COD,2025-10-13
+ORD-1254,"Tiffany ramirez",Bandung,Beauty,"Face Serum",4,395.42,1581.68,E-Wallet,2025-10-27
+ORD-1255,"Jamie mccall",Jakarta,Electronics,"Missing Product",3,89.2,267.6,"Bank Transfer",2024-10-12
+ORD-1256,"Timothy lang",Bandung,Books,"Data Analytics 101",5,445.43,2227.15,E-Wallet,2025-11-23
+ORD-1257,"Melissa johnson",Jakarta,"Home & Living","Desk Lamp",1,29.57,29.57,Unknown,2025-11-06
+ORD-1258,"Allison rangel",Semarang,Electronics,"Missing Product",2,320.9,641.8,E-Wallet,2024-11-24
+ORD-1259,"Zachary duran",Semarang,Beauty,Sunscreen,2,225.66,451.32,"Bank Transfer",2024-11-05
+ORD-1260,"Shannon martin",Yogyakarta,"Home & Living","Office Chair",4,485.5,1942,QRIS,2025-04-27
+ORD-1261,"Briana morales",Medan,Fashion,"Running Shoes",3,44.08,132.24,QRIS,2024-05-07
+ORD-1262,"Tracy martin",Bandung,Fashion,"Oversized Hoodie",2,67.46,134.92,QRIS,2025-01-23
+ORD-1263,"Sean christensen",Unknown,Sports,"Dumbbell Set",5,166.43,832.15,QRIS,2026-04-20
+ORD-1264,"Steven oneill",Jakarta,Fashion,"Denim Jacket",5,293.43,1467.15,QRIS,2026-04-14
+ORD-1265,"Ruben pham",Medan,Books,"SQL for Beginners",5,306.44,1532.2,"Cash On Delivery",2024-11-03
+ORD-1266,"Ebony wang",Surabaya,Electronics,"Gaming Keyboard",4,460.81,1843.24,"Bank Transfer",2025-02-05
+ORD-1267,"Nicole thompson",Bali,Fashion,"Oversized Hoodie",3,487.24,1461.72,E-Wallet,2025-12-01
+ORD-1268,"Christopher weeks",Bali,Groceries,"Cooking Oil",3,411.4,1234.2,"Cash On Delivery",2025-08-25
+ORD-1269,"Christina smith",Bandung,Groceries,"Organic Coffee",1,128.5,128.5,"Bank Transfer",2025-11-11
+ORD-1270,"Jessica norris",Medan,Fashion,"Missing Product",4,299.05,1196.2,"Bank Transfer",2026-01-26
+ORD-1271,"Andrew banks",Bali,Beauty,"Face Serum",2,427.64,855.28,"Credit Card",2025-06-15
+ORD-1272,"Michelle johnson",Surabaya,Fashion,"Denim Jacket",2,302.57,605.14,COD,2025-05-26
+ORD-1273,"Christopher johnson",Medan,Beauty,Sunscreen,2,236.02,472.04,Unknown,2025-03-14
+ORD-1274,"Joseph bennett",Surabaya,Sports,Football,3,152.75,458.25,COD,2026-03-31
+ORD-1275,"Wanda rice",Bandung,Sports,"Yoga Mat",1,403.69,403.69,Unknown,2025-07-04
+ORD-1276,"Katelyn howell",Bali,Books,"Data Analytics 101",5,355.49,1777.45,"Credit Card",2025-10-17
+ORD-1277,"Isaac johns",Bali,Groceries,"Organic Coffee",5,94.66,473.3,QRIS,2025-03-15
+ORD-1278,"Adam miller",Surabaya,Fashion,"Running Shoes",2,373.38,746.76,"Bank Transfer",2026-04-26
+ORD-1279,"Michelle randolph",Yogyakarta,Sports,Football,5,40.25,201.25,"Cash On Delivery",2026-04-19
+ORD-1280,"Amber campbell",Bandung,"Home & Living","Air Fryer",5,446.96,2234.8,QRIS,2025-06-01
+ORD-1281,"Joshua mitchell",Semarang,Electronics,"Bluetooth Speaker",3,108.64,325.92,QRIS,2026-02-23
+ORD-1282,"Jerry castro",Surabaya,Beauty,Sunscreen,1,23.67,23.67,QRIS,2026-02-26
+ORD-1283,"Dr. shane smith",Semarang,"Home & Living","Air Fryer",2,55.84,111.68,"Credit Card",2026-03-14
+ORD-1284,"Anthony novak",Semarang,Books,"Data Analytics 101",3,498.09,1494.27,Unknown,2025-07-18
+ORD-1285,"Julie day",Bali,Sports,Football,2,65.97,131.94,"Bank Transfer",2025-05-06
+ORD-1286,"Joanne myers",Surabaya,Books,"Data Analytics 101",1,346.43,346.43,E-Wallet,2025-01-21
+ORD-1287,"Regina kidd",Jakarta,Books,"Data Analytics 101",5,138.64,693.2,"Cash On Delivery",2025-12-12
+ORD-1288,"Juan green",Unknown,Sports,"Yoga Mat",3,416.59,1249.77,"Credit Card",2024-07-14
+ORD-1289,"Haley marquez",Jakarta,Electronics,"Wireless Mouse",1,453.91,453.91,QRIS,2026-04-28
+ORD-1290,"Joy johnson",Semarang,Beauty,Sunscreen,3,234.82,704.46,"Bank Transfer",2025-07-20
+ORD-1291,"David thompson",Yogyakarta,Groceries,"Organic Coffee",1,426.74,426.74,"Cash On Delivery",2025-03-25
+ORD-1292,"Robert avery",Yogyakarta,Beauty,Sunscreen,4,139.56,558.24,COD,2025-10-23
+ORD-1293,"Holly knight",Yogyakarta,Groceries,"Organic Coffee",1,210.93,210.93,"Credit Card",2026-02-09
+ORD-1294,"Rebecca cook",Bali,Beauty,"Face Serum",4,223.14,892.56,QRIS,2025-04-08
+ORD-1295,"David perkins",Bali,Books,"SQL for Beginners",5,263.94,1319.7,"Credit Card",2025-05-10
+ORD-1296,"Matthew clarke",Yogyakarta,Sports,Football,1,10.76,10.76,QRIS,2026-01-31
+ORD-1297,"Mary thompson",Yogyakarta,Electronics,"Gaming Keyboard",2,277.5,555,E-Wallet,2026-01-16
+ORD-1298,"Andrew thomas",Semarang,Beauty,"Lip Tint",1,55.81,55.81,"Credit Card",2025-07-06
+ORD-1299,"Eric kelly",Semarang,Beauty,Sunscreen,3,413.53,1240.59,"Cash On Delivery",2025-11-21
+ORD-1300,"Allen irwin",Surabaya,Groceries,"Cooking Oil",2,6.09,12.18,"Cash On Delivery",2024-12-10
+ORD-1301,"William jones",Semarang,Groceries,"Cooking Oil",4,57.95,231.8,E-Wallet,2025-05-07
+ORD-1303,"Rebecca watts",Yogyakarta,Beauty,"Lip Tint",2,347.45,694.9,COD,2026-03-02
+ORD-1304,"Michael suarez",Bandung,Sports,Football,2,140.43,280.86,"Credit Card",2026-02-26
+ORD-1305,"Robert rowland",Bali,Sports,"Dumbbell Set",5,318.13,1590.65,"Bank Transfer",2025-05-12
+ORD-1306,"Bradley mooney",Bali,Books,"Python Crash Course",3,356.62,1069.86,COD,2025-06-14
+ORD-1307,"Nicole harris",Bandung,Beauty,"Face Serum",5,57.7,288.5,"Bank Transfer",2024-07-15
+ORD-1308,"Claire ortiz",Jakarta,Electronics,"Gaming Keyboard",3,105.98,317.94,"Cash On Delivery",2025-10-29
+ORD-1309,"Karen moore",Semarang,Groceries,"Cooking Oil",3,348,20880,COD,2025-04-22
+ORD-1310,"Lonnie vasquez",Medan,Groceries,"Instant Noodles",2,456.19,912.38,"Cash On Delivery",2025-03-31
+ORD-1311,"Erin stevens",Jakarta,Fashion,"Denim Jacket",1,97.55,97.55,E-Wallet,2024-12-30
+ORD-1312,"Paul sims",Bali,Beauty,"Lip Tint",2,24.77,49.54,"Cash On Delivery",2026-02-04
+ORD-1313,"Evan maldonado",Bandung,Books,"SQL for Beginners",5,113.88,569.4,E-Wallet,2025-12-31
+ORD-1315,"Anna hampton",Semarang,Sports,Football,2,479.65,959.3,"Credit Card",2025-09-16
+ORD-1316,"Ryan fry",Jakarta,Sports,"Dumbbell Set",4,26.71,106.84,"Credit Card",2025-06-03
+ORD-1317,"John pierce",Bali,Books,"Data Analytics 101",4,418.65,1674.6,QRIS,2024-08-19
+ORD-1318,"Dominique fowler",Jakarta,Books,"SQL for Beginners",1,48.32,48.32,"Cash On Delivery",2024-09-12
+ORD-1319,"Heather dickson",Medan,Beauty,Sunscreen,1,197.8,197.8,"Credit Card",2026-04-02
+ORD-1320,"Teresa ayala",Yogyakarta,Sports,"Yoga Mat",3,394.51,1183.53,E-Wallet,2025-12-11
+ORD-1321,"Kelly stuart",Semarang,Beauty,"Lip Tint",3,480.27,1440.81,QRIS,2026-02-02
+ORD-1322,"Kathleen herman",Bali,Electronics,"Gaming Keyboard",5,200.07,1000.35,COD,2024-07-19
+ORD-1323,"Julie butler",Jakarta,Fashion,"Denim Jacket",3,101.19,303.57,QRIS,2026-01-23
+ORD-1324,"Jordan mathews dds",Bandung,Electronics,"Bluetooth Speaker",1,102.72,102.72,COD,2024-08-07
+ORD-1325,"John castro",Surabaya,Beauty,"Missing Product",5,331.41,33141,QRIS,2025-02-10
+ORD-1326,"Oscar ray",Yogyakarta,Books,"Python Crash Course",4,141.96,567.84,E-Wallet,2026-04-27
+ORD-1327,"Mrs. laura ware",Bali,Sports,"Yoga Mat",3,430.06,25803.600000000002,COD,2025-12-16
+ORD-1328,"Melissa king",Medan,Sports,"Dumbbell Set",5,110.32,551.6,E-Wallet,2026-02-11
+ORD-1329,"Matthew gill",Semarang,Sports,Football,1,201.41,201.41,"Cash On Delivery",2025-06-27
+ORD-1330,"Kent buck",Semarang,Sports,Football,2,369.28,738.56,E-Wallet,2025-04-12
+ORD-1331,"Kenneth campbell",Bali,Groceries,"Instant Noodles",4,237.49,949.96,"Bank Transfer",2025-04-17
+ORD-1332,"John davidson",Bali,"Home & Living","Office Chair",5,287.23,1436.15,QRIS,2026-04-16
+ORD-1333,"Jessica david",Yogyakarta,"Home & Living","Air Fryer",4,397.37,1589.48,"Credit Card",2025-08-19
+ORD-1334,"Charles boyd",Yogyakarta,"Home & Living","Office Chair",1,332.25,332.25,COD,2025-04-22
+ORD-1335,"Timothy sanders",Medan,Electronics,"Wireless Mouse",5,298.21,1491.05,"Credit Card",2024-11-09
+ORD-1336,"Terry johnson",Jakarta,Sports,Football,1,439.86,439.86,"Credit Card",2024-10-22
+ORD-1337,"Brandon conner",Bandung,Beauty,"Lip Tint",2,398.33,796.66,COD,2025-01-02
+ORD-1338,"Sara carroll",Yogyakarta,Beauty,"Face Serum",1,13.2,13.2,QRIS,2025-10-03
+ORD-1339,"Heather cobb",Semarang,Sports,Football,1,51.13,51.13,"Credit Card",2026-01-25
+ORD-1340,"Angela bullock",Medan,Electronics,"Gaming Keyboard",5,217.33,1086.65,QRIS,2025-09-17
+ORD-1341,"Kenneth doyle",Yogyakarta,"Home & Living","Air Fryer",2,455.49,910.98,"Bank Transfer",2025-05-01
+ORD-1342,"Gina logan",Yogyakarta,Beauty,"Lip Tint",2,345.44,690.88,COD,2026-02-20
+ORD-1343,"Ashley baker",Medan,Books,"SQL for Beginners",2,209.55,419.1,E-Wallet,2025-06-28
+ORD-1344,"James craig",Jakarta,Groceries,"Cooking Oil",1,375.17,375.17,"Credit Card",2025-03-16
+ORD-1345,"Dennis brown",Jakarta,Books,"Data Analytics 101",1,412.51,412.51,"Bank Transfer",2026-02-02
+ORD-1347,"Daniel woods",Surabaya,Groceries,"Cooking Oil",5,260.33,1301.65,"Credit Card",2025-03-21
+ORD-1348,"Tina stewart",Jakarta,"Home & Living","Office Chair",4,205.7,822.8,"Credit Card",2024-07-22
+ORD-1349,"Scott barnes",Jakarta,Groceries,"Instant Noodles",2,305.15,610.3,"Bank Transfer",2025-08-22
+ORD-1350,"Jacob hill",Yogyakarta,Electronics,"Gaming Keyboard",3,438.68,1316.04,"Cash On Delivery",2025-01-15
+ORD-1351,"Kevin hansen",Bandung,Sports,"Yoga Mat",4,62.55,250.2,COD,2024-07-24
+ORD-1352,"Larry stanley",Surabaya,Electronics,"Gaming Keyboard",3,127.89,383.67,"Credit Card",2024-12-15
+ORD-1353,"William west",Surabaya,"Home & Living","Desk Lamp",2,252,504,"Credit Card",2025-05-13
+ORD-1354,"Gwendolyn andrews",Semarang,Electronics,"Wireless Mouse",1,339.53,339.53,"Cash On Delivery",2025-10-04
+ORD-1355,"Cameron tyler",Medan,Sports,"Dumbbell Set",4,95.52,382.08,"Credit Card",2024-08-26
+ORD-1356,"Heidi anderson",Bali,Beauty,"Lip Tint",2,231.31,462.62,Unknown,2025-02-21
+ORD-1357,"Victoria herman",Surabaya,Groceries,"Instant Noodles",2,276.54,553.08,"Bank Transfer",2025-01-13
+ORD-1358,"Rachel watson",Semarang,Beauty,Sunscreen,4,94.05,376.2,"Credit Card",2024-11-04
+ORD-1359,"Donald miller",Semarang,Groceries,"Cooking Oil",2,239.13,478.26,COD,2025-11-10
+ORD-1360,"Matthew rodriguez",Surabaya,Groceries,"Cooking Oil",1,202.21,202.21,E-Wallet,2025-06-06
+ORD-1361,"Tammie johnson",Medan,Sports,Football,3,175.35,526.05,"Credit Card",2025-03-13
+ORD-1362,"Alex garcia",Surabaya,Books,"Python Crash Course",4,388.5,1554,E-Wallet,2026-01-13
+ORD-1363,"Jenny payne",Surabaya,Sports,Football,4,425.21,1700.84,"Bank Transfer",2025-03-16
+ORD-1364,"Richard guerra",Jakarta,Beauty,Sunscreen,5,262.86,1314.3,"Credit Card",2025-03-17
+ORD-1365,"William moody",Yogyakarta,Beauty,"Face Serum",1,36.58,36.58,"Cash On Delivery",2025-06-22
+ORD-1366,"Carolyn simmons",Medan,Beauty,Sunscreen,2,127.46,254.92,QRIS,2025-06-20
+ORD-1367,"Chase mata",Bandung,Beauty,"Lip Tint",3,276.53,829.59,"Cash On Delivery",2025-01-18
+ORD-1368,"Gene montgomery",Yogyakarta,Books,"Python Crash Course",3,454.92,1364.76,"Bank Transfer",2025-12-07
+ORD-1369,"Tiffany suarez",Semarang,Groceries,"Organic Coffee",3,146.95,440.85,E-Wallet,2024-10-18
+ORD-1370,"Christine clarke",Bali,Sports,"Dumbbell Set",2,208.81,417.62,COD,2025-01-08
+ORD-1371,"Brooke horn",Medan,Fashion,"Denim Jacket",5,404.75,2023.75,QRIS,2024-08-19
+ORD-1372,"Tiffany brady",Jakarta,Books,"SQL for Beginners",5,229.12,1145.6,Unknown,2025-07-18
+ORD-1373,"Bradley smith",Bandung,Fashion,"Denim Jacket",4,364.92,1459.68,"Bank Transfer",2024-12-30
+ORD-1374,"Sean mcdaniel",Jakarta,Groceries,"Organic Coffee",3,44.71,134.13,"Cash On Delivery",2025-04-18
+ORD-1375,"Katherine brown",Bandung,Electronics,"Gaming Keyboard",2,195.47,390.94,E-Wallet,2024-09-06
+ORD-1376,"Michele smith",Medan,Books,"SQL for Beginners",3,83.51,250.53,"Credit Card",2025-03-18
+ORD-1377,"Michael frederick",Medan,Fashion,"Oversized Hoodie",2,318.29,636.58,"Credit Card",2025-05-01
+ORD-1378,"Ian craig",Semarang,Fashion,"Running Shoes",1,128.12,128.12,COD,2024-08-27
+ORD-1379,"Troy miller",Bandung,Fashion,"Running Shoes",5,395.34,1976.7,"Credit Card",2025-09-15
+ORD-1380,"Heather mack",Surabaya,Beauty,"Lip Tint",3,273.65,820.95,"Bank Transfer",2026-12-01
+ORD-1381,"Christina morgan",Bali,Fashion,"Running Shoes",3,410.61,24636.6,"Cash On Delivery",2025-10-17
+ORD-1382,"Adrian bryan",Bali,Fashion,"Running Shoes",1,330.85,330.85,E-Wallet,2025-10-04
+ORD-1383,"Jessica johnson",Semarang,Electronics,"Wireless Mouse",5,331.15,1655.75,"Credit Card",2026-03-05
+ORD-1384,"Scott kaufman",Jakarta,Sports,Football,5,131.69,658.45,"Credit Card",2026-01-02
+ORD-1385,"Patricia richardson",Jakarta,Electronics,"Bluetooth Speaker",5,373.02,1865.1,QRIS,2024-02-12
+ORD-1386,"Tami arnold",Medan,Fashion,"Denim Jacket",1,55.11,55.11,COD,2025-01-12
+ORD-1387,"William decker",Jakarta,Groceries,"Cooking Oil",5,182.19,910.95,"Credit Card",2026-01-01
+ORD-1388,"David miller",Surabaya,Sports,"Dumbbell Set",3,451.73,1355.19,E-Wallet,2025-06-20
+ORD-1389,"Audrey grant",Yogyakarta,Fashion,"Missing Product",5,463.44,2317.2,"Credit Card",2025-12-29
+ORD-1390,"Curtis parker",Semarang,"Home & Living","Desk Lamp",3,492.28,1476.84,COD,2026-01-07
+ORD-1391,"Sandra cortez",Surabaya,Beauty,Sunscreen,2,73.51,147.02,QRIS,2025-10-13
+ORD-1392,"Warren gonzalez",Unknown,Books,"SQL for Beginners",4,90.59,362.36,"Cash On Delivery",2025-06-05
+ORD-1393,"Richard schwartz",Semarang,Electronics,"Bluetooth Speaker",3,440.5,1321.5,QRIS,2025-10-04
+ORD-1394,"George raymond",Surabaya,Books,"SQL for Beginners",1,155.87,155.87,"Cash On Delivery",2025-06-28
+ORD-1395,"Michelle baker",Bandung,Groceries,"Cooking Oil",5,254.84,1274.2,"Credit Card",2024-05-09
+ORD-1396,"Andrew hunter",Bandung,Beauty,"Lip Tint",4,388.04,1552.16,E-Wallet,2025-03-31
+ORD-1397,"Stephen ruiz",Yogyakarta,"Home & Living","Air Fryer",3,343.95,1031.85,"Bank Transfer",2025-03-05
+ORD-1398,"Kevin silva",Semarang,Fashion,"Running Shoes",5,411.68,2058.4,"Credit Card",2026-01-02
+ORD-1400,"Michael cisneros",Bali,Sports,"Dumbbell Set",5,244.1,1220.5,"Credit Card",2026-02-16
+ORD-1401,"William james",Yogyakarta,"Home & Living","Missing Product",5,139.28,696.4,COD,2026-06-05
+ORD-1402,"Brian smith",Surabaya,Groceries,"Cooking Oil",4,119.43,477.72,E-Wallet,2025-06-10
+ORD-1403,"Abigail jones",Bali,Books,"Data Analytics 101",1,127.46,127.46,Unknown,2024-08-15
+ORD-1404,"Matthew rodriguez",Jakarta,Sports,"Dumbbell Set",1,314.77,314.77,"Cash On Delivery",2024-08-17
+ORD-1405,"Mrs. linda walker md",Bandung,Electronics,"Gaming Keyboard",4,262.76,1051.04,E-Wallet,2024-06-23
+ORD-1406,"Robert lawson",Surabaya,Fashion,"Oversized Hoodie",2,292.61,585.22,COD,2025-10-16
+ORD-1407,"Laura edwards",Surabaya,Sports,"Yoga Mat",3,38.57,115.71,QRIS,2025-07-06
+ORD-1408,"Steven heath",Semarang,"Home & Living","Air Fryer",3,80.22,240.66,"Cash On Delivery",2025-09-25
+ORD-1409,"Joseph salas",Yogyakarta,Electronics,"Bluetooth Speaker",1,345.63,345.63,COD,2025-01-11
+ORD-1410,"Alicia key",Bandung,Fashion,"Oversized Hoodie",1,207.25,207.25,COD,2024-07-21
+ORD-1411,"Richard fox",Semarang,Beauty,"Lip Tint",4,345.49,1381.96,"Credit Card",2024-12-07
+ORD-1412,"Joel jackson",Medan,Books,"Python Crash Course",5,270.4,1352,"Credit Card",2025-08-27
+ORD-1413,"Natalie collins",Bandung,Beauty,"Lip Tint",1,281.06,281.06,"Bank Transfer",2026-02-13
+ORD-1414,"Adam lucas",Semarang,Beauty,Sunscreen,5,459.92,2299.6,COD,2026-01-28
+ORD-1415,"Tina dunn",Yogyakarta,"Home & Living","Air Fryer",1,93.54,93.54,"Credit Card",2025-10-02
+ORD-1416,"Joseph watson",Yogyakarta,Electronics,"Wireless Mouse",1,354.58,354.58,COD,2024-05-20
+ORD-1417,"Brett taylor",Bandung,Electronics,"Wireless Mouse",3,284.92,854.76,"Credit Card",2025-08-16
+ORD-1418,"Stacey harrison",Yogyakarta,Fashion,"Oversized Hoodie",2,480.41,19216.4,E-Wallet,2024-08-28
+ORD-1419,"Jose york",Bandung,Sports,Football,4,229.6,918.4,"Cash On Delivery",2024-06-21
+ORD-1420,"Greg lopez",Surabaya,Fashion,"Oversized Hoodie",3,23.18,69.54,"Bank Transfer",2025-01-11
+ORD-1421,"Jennifer guerrero",Medan,"Home & Living","Office Chair",5,288.28,1441.4,"Bank Transfer",2025-08-14
+ORD-1422,"Helen nelson",Bali,Groceries,"Organic Coffee",4,422.44,1689.76,QRIS,2025-01-11
+ORD-1423,"Keith stevens",Semarang,Electronics,"Gaming Keyboard",5,493.66,2468.3,COD,2025-11-08
+ORD-1424,"Lisa petersen",Medan,Sports,Football,4,262.25,20980,"Credit Card",2025-09-07
+ORD-1426,"Heather kidd",Yogyakarta,"Home & Living","Air Fryer",5,277.25,1386.25,COD,2025-12-24
+ORD-1427,"Meagan mcclain",Bali,"Home & Living","Office Chair",4,458.5,1834,E-Wallet,2025-07-12
+ORD-1428,"Cole adams",Bandung,Electronics,"Gaming Keyboard",3,284.65,853.95,"Cash On Delivery",2024-07-06
+ORD-1429,"Edward lawrence",Medan,Fashion,"Running Shoes",1,172.88,172.88,"Cash On Delivery",2025-04-08
+ORD-1430,"Larry munoz",Yogyakarta,"Home & Living","Office Chair",1,139.39,139.39,QRIS,2025-08-26
+ORD-1431,"Cameron walker",Bandung,Electronics,"Wireless Mouse",1,224.67,224.67,"Credit Card",2025-10-12
+ORD-1432,"Ashley barber",Yogyakarta,Fashion,"Oversized Hoodie",5,339.98,1699.9,COD,2024-07-24
+ORD-1433,"Cindy ward",Bali,Sports,"Yoga Mat",3,236.1,708.3,Unknown,2025-05-21
+ORD-1434,"Erin lopez",Bandung,Fashion,"Running Shoes",3,268.48,805.44,"Bank Transfer",2024-05-07
+ORD-1435,"Karen kelly",Bandung,"Home & Living","Office Chair",3,139.17,417.51,"Credit Card",2024-09-28
+ORD-1436,"Linda ward",Bali,Beauty,"Lip Tint",1,57.43,57.43,"Cash On Delivery",2025-08-05
+ORD-1437,"Nathan miller",Semarang,"Home & Living","Air Fryer",2,357.88,715.76,QRIS,2024-09-23
+ORD-1438,"Stephanie roberts",Surabaya,"Home & Living","Office Chair",4,237.92,951.68,"Bank Transfer",2025-04-27
+ORD-1439,"Alyssa jones",Semarang,Electronics,"Wireless Mouse",4,60.88,243.52,"Bank Transfer",2025-12-15
+ORD-1440,"Denise matthews",Bandung,Books,"Data Analytics 101",3,268.71,806.13,"Cash On Delivery",2024-05-27
+ORD-1441,"Kevin bradley",Bali,Sports,"Dumbbell Set",4,285.77,1143.08,COD,2024-07-06
+ORD-1442,"Benjamin turner",Jakarta,Sports,"Dumbbell Set",3,279.77,839.31,"Cash On Delivery",2025-09-11
+ORD-1443,"Kenneth miller",Bali,Books,"Python Crash Course",1,49.81,49.81,Unknown,2024-06-18
+ORD-1444,"Jason ortega",Bali,Sports,"Dumbbell Set",2,106.8,213.6,"Bank Transfer",2024-07-08
+ORD-1445,"Mark jackson",Jakarta,Sports,"Yoga Mat",5,493.28,49328,"Bank Transfer",2026-04-05
+ORD-1446,"Ashley mendez",Yogyakarta,"Home & Living","Desk Lamp",2,218.7,437.4,E-Wallet,2025-06-01
+ORD-1447,"Kayla graham",Unknown,Sports,"Dumbbell Set",3,420.78,1262.34,Unknown,2025-10-05
+ORD-1448,"Gina brown",Bali,Fashion,"Oversized Hoodie",2,322.91,645.82,"Cash On Delivery",2025-07-17
+ORD-1449,"Nicholas lozano",Semarang,Beauty,Sunscreen,3,116.74,350.22,COD,2024-10-24
+ORD-1450,"Elizabeth black",Jakarta,Electronics,"Gaming Keyboard",4,353.92,1415.68,"Credit Card",2025-04-05
+ORD-1451,"Jerome oliver",Bali,Electronics,"Gaming Keyboard",5,48.78,243.9,"Credit Card",2024-10-30
+ORD-1452,"Jesse peterson",Surabaya,Sports,"Yoga Mat",4,229.75,919,QRIS,2025-04-19
+ORD-1454,"Stanley christensen",Jakarta,"Home & Living","Air Fryer",2,309.82,619.64,"Cash On Delivery",2026-02-04
+ORD-1455,"Kara farmer",Unknown,Fashion,"Running Shoes",2,245.03,490.06,"Credit Card",2024-08-10
+ORD-1456,"John oliver",Surabaya,Fashion,"Denim Jacket",4,364.37,1457.48,"Credit Card",2025-10-12
+ORD-1457,"Laura hernandez",Yogyakarta,Beauty,Sunscreen,4,374.34,1497.36,E-Wallet,2025-05-22
+ORD-1458,"Destiny padilla",Medan,Beauty,Sunscreen,3,481.07,1443.21,COD,2026-03-18
+ORD-1459,"Brian perez",Bandung,"Home & Living","Missing Product",3,328.9,986.7,COD,2025-12-17
+ORD-1460,"Casey brown",Bali,Electronics,"Gaming Keyboard",1,416.69,416.69,E-Wallet,2026-03-02
+ORD-1461,"Brandon warren",Bali,Electronics,"Wireless Mouse",5,330.02,1650.1,"Credit Card",2025-09-07
+ORD-1462,"Thomas green",Surabaya,Books,"Data Analytics 101",3,150.81,452.43,QRIS,2024-11-24
+ORD-1463,"Harry rodriguez",Surabaya,Groceries,"Organic Coffee",3,389.67,1169.01,QRIS,2026-01-23
+ORD-1464,"Casey mayer",Unknown,Fashion,"Missing Product",4,58.67,234.68,"Credit Card",2025-07-16
+ORD-1465,"Nicole rush",Jakarta,Books,"SQL for Beginners",4,14.29,57.16,COD,2024-02-10
+ORD-1467,"Richard miller",Bali,Sports,"Dumbbell Set",3,342.51,1027.53,"Credit Card",2024-08-30
+ORD-1468,"Zachary hood",Surabaya,"Home & Living","Office Chair",2,92.43,184.86,COD,2025-02-12
+ORD-1469,"Deborah nelson",Bandung,Books,"SQL for Beginners",2,74.27,148.54,E-Wallet,2026-04-25
+ORD-1470,"Jose briggs",Yogyakarta,Groceries,"Instant Noodles",1,23.34,23.34,"Credit Card",2024-09-08
+ORD-1471,"Mary smith",Medan,Fashion,"Oversized Hoodie",1,369.05,7381,"Credit Card",2024-12-31
+ORD-1472,"Sarah gonzalez",Jakarta,Groceries,"Organic Coffee",4,307.56,1230.24,E-Wallet,2024-12-15
+ORD-1473,"Jillian barker",Semarang,Groceries,"Cooking Oil",4,165.5,662,QRIS,2025-06-21
+ORD-1474,"Amanda larson dds",Medan,Fashion,"Running Shoes",2,349.67,699.34,"Credit Card",2025-06-12
+ORD-1475,"Chad johnson",Medan,Electronics,"Bluetooth Speaker",1,8.14,8.14,"Bank Transfer",2025-03-29
+ORD-1476,"Laura torres",Jakarta,Books,"SQL for Beginners",5,227.96,1139.8,"Cash On Delivery",2025-10-14
+ORD-1477,"Tyrone shepard",Semarang,Electronics,"Gaming Keyboard",2,99.99,199.98,QRIS,2026-02-12
+ORD-1478,"Angel zuniga",Jakarta,Fashion,"Oversized Hoodie",2,344.2,688.4,"Credit Card",2024-12-14
+ORD-1479,"Jacqueline robertson",Semarang,Groceries,"Instant Noodles",1,56.69,56.69,"Credit Card",2024-05-29
+ORD-1480,"William arias",Bandung,"Home & Living","Air Fryer",2,374.81,749.62,"Credit Card",2025-06-01
+ORD-1481,"Gary smith",Unknown,Sports,"Dumbbell Set",1,445.79,445.79,E-Wallet,2025-05-23
+ORD-1482,"Christopher bell",Semarang,Fashion,"Running Shoes",2,20.89,41.78,E-Wallet,2026-03-14
+ORD-1483,"Cassandra anderson",Jakarta,Groceries,"Cooking Oil",5,453.26,2266.3,E-Wallet,2025-10-26
+ORD-1484,"Lisa hurst",Bandung,"Home & Living","Desk Lamp",4,369.41,1477.64,"Cash On Delivery",2024-12-24
+ORD-1485,"Toni lane phd",Bali,Electronics,"Bluetooth Speaker",5,21.64,108.2,QRIS,2024-09-06
+ORD-1486,"Judy shaw",Yogyakarta,Beauty,"Face Serum",2,182.41,364.82,COD,2025-10-12
+ORD-1487,"Andrew cameron",Jakarta,Beauty,"Face Serum",4,96.55,386.2,QRIS,2024-05-25
+ORD-1488,"Marcus white",Surabaya,Groceries,"Instant Noodles",5,273.51,1367.55,COD,2024-07-01
+ORD-1489,"Leah hess",Medan,Electronics,"Bluetooth Speaker",3,235.35,706.05,COD,2026-01-08
+ORD-1490,"Nicole fox",Semarang,Electronics,"Gaming Keyboard",4,370,1480,COD,2025-11-14
+ORD-1491,"Nancy garcia",Bali,Electronics,"Bluetooth Speaker",3,228.94,686.82,"Cash On Delivery",2025-03-03
+ORD-1492,"Brittany jackson",Bandung,Books,"Data Analytics 101",2,446.49,892.98,"Bank Transfer",2024-11-09
+ORD-1493,"Patrick thomas",Bali,Beauty,"Face Serum",2,262.74,525.48,"Cash On Delivery",2025-06-20
+ORD-1494,"Corey newton",Surabaya,Electronics,"Wireless Mouse",2,418.3,836.6,COD,2025-06-02
+ORD-1495,"Jill brown",Surabaya,Sports,"Yoga Mat",3,90.01,270.03,QRIS,2025-09-07
+ORD-1496,"Steven hughes",Bali,Fashion,"Denim Jacket",5,146.2,731,QRIS,2024-09-22
+ORD-1497,"Michael wilkins",Surabaya,Beauty,Sunscreen,3,96.33,288.99,"Credit Card",2026-02-10
+ORD-1498,"Jacqueline hodges",Bali,Electronics,"Bluetooth Speaker",4,385.42,1541.68,"Cash On Delivery",2026-01-04
+ORD-1499,"Lisa ward",Bali,Groceries,"Missing Product",2,400.79,801.58,"Credit Card",2024-07-05
+ORD-1500,"Cheryl cook",Bandung,Beauty,"Lip Tint",2,225.76,451.52,"Cash On Delivery",2024-06-11

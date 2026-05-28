@@ -1,0 +1,516 @@
+order_id,customer_name,city,product_category,product_name,quantity,unit_price,total_price,payment_method,order_date
+ORD-1001,Evan Wood,,Books,Data Analytics 101,1,372.07,$372.07,COD,2025-09-04
+ORD-1002,David Joseph,Yogyakarta,Fashion,Denim Jacket,5,18.14,USD 90.7,credit card,2024-12-29
+ORD-1003,JANE BARNES,Surabaya,Home & Living,Air Fryer,2,111.58,"Rp 3,570,560",QRIS,30/09/2024
+ORD-1004,Michelle Norris,Medan,Beauty,Face Serum,5,150.12,750.6,credit card,06-05-2024
+ORD-1005,Megan Mitchell,Surabaya,Groceries,Organic Coffee,1,193.16,$193.16,Bank Transfer,24/07/2024
+ORD-1006,William Shields,Bali,Fashion,Denim Jacket,2,85.88,$171.76,Cash On Delivery,06/06/2024
+ORD-1007,Erin Riley,Bali,Electronics,Bluetooth Speaker,4,137.53,"Rp 8,801,920",Bank Transfer,2024-11-30
+ORD-1008,Betty Bernard,,Fashion,Oversized Hoodie,5,271.79,$1358.95,Bank Transfer,12-18-2024
+ORD-1009, Michael Martinez ,Yogyakarta,Groceries,Organic Coffee,2,315.59,$631.18,Cash On Delivery,04-17-2026
+ORD-1010,Ashley Larson,Bandung,Electronics,Gaming Keyboard,5,376.68,USD 1883.4,,08-30-2024
+ORD-1011,Nancy Pruitt,Semarang,Electronics,Gaming Keyboard,3,421.63,$1264.89,credit card,07-31-2024
+ORD-1012,Robert Hernandez,Medan,Beauty,Face Serum,1,464.9,USD 464.9,Credit Card,05/08/2025
+ORD-1013,Kendra Lopez,Medan,Beauty,Lip Tint,2,136.2,272.4,QRIS,04-29-2026
+ORD-1014,Alicia Hurst DVM,Bandung,Sports,Dumbbell Set,1,127.71,USD 127.71,Cash On Delivery,2025-01-10
+ORD-1015,Judith Thompson,Bandung,Electronics,Bluetooth Speaker,1,259.51,"Rp 4,152,160",COD,15/03/2026
+ORD-1016,Michael Deleon,Bali,Fashion,Oversized Hoodie,1,331.2,"Rp 5,299,200",Credit Card,10/05/2024
+ORD-1017,Jeffrey Jacobs,Surabaya,Groceries,Organic Coffee,2,99.84,$199.68,E-Wallet,01-23-2025
+ORD-1018,Norman Marshall,Bandung,Sports,Yoga Mat,1,463.55,"Rp 7,416,800",QRIS,2024-07-18
+ORD-1019,William Wilson,Bali,Groceries,Instant Noodles,3,214.39,$643.17,E-Wallet,08-05-2025
+ORD-1020,Rachael Rose,Jakarta,Electronics,Wireless Mouse,5,241.01,USD 1205.05,QRIS,09-17-2024
+ORD-1021,JESSICA OROZCO,Medan,Sports,Yoga Mat,5,299.29,1496.45,Cash On Delivery,09-10-2025
+ORD-1022,EDWARD SANTOS,Medan,Beauty,Face Serum,3,231.33,693.99,Credit Card,2026-03-07
+ORD-1023,Nancy Jordan,Semarang,Fashion,Running Shoes,3,83.08,$249.24,COD,03-16-2025
+ORD-1024,Erin Mays,Medan,Fashion,Running Shoes,1,445.41,445.41,credit card,08-28-2025
+ORD-1025,JEREMY CARPENTER,Bandung,Home & Living,Desk Lamp,1,318.97,"Rp 5,103,520",COD,12/05/2024
+ORD-1026,Tyler Davidson,Bandung,Electronics,Wireless Mouse,2,275.07,$550.14,Credit Card,07/06/2025
+ORD-1027,Virginia Benson,,Fashion,Denim Jacket,2,335.13,USD 670.26,Cash On Delivery,27/09/2025
+ORD-1028,Willie Evans,Yogyakarta,Groceries,Organic Coffee,4,17.27,USD 69.08,QRIS,06-03-2024
+ORD-1029,Katherine Novak,,Electronics,Bluetooth Speaker,1,430.0,USD 430.0,Bank Transfer,2025-08-24
+ORD-1030,Natalie Ramirez,Medan,Home & Living,Desk Lamp,3,178.82,USD 536.46,Bank Transfer,08-29-2024
+ORD-1031,Colleen Lewis,Medan,Home & Living,Desk Lamp,1,300.3,$300.3,Cash On Delivery,01/04/2025
+ORD-1032,Lisa Larson,,Electronics,Gaming Keyboard,5,344.99,$1724.95,Credit Card,01-07-2025
+ORD-1033,Jamie Santana,Bandung,Home & Living,Office Chair,3,335.11,USD 1005.33,credit card,20/07/2025
+ORD-1034,Anthony Parker,Medan,Home & Living,Air Fryer,5,417.69,USD 2088.45,Cash On Delivery,13/07/2024
+ORD-1035,Debra Hahn,Surabaya,Groceries,Cooking Oil,2,331.13,USD 662.26,Credit Card,09/02/2026
+ORD-1036,Donald Davidson,Yogyakarta,Fashion,Oversized Hoodie,1,126.2,"Rp 2,019,200",E-Wallet,25/07/2024
+ORD-1037,Steven Wood,Semarang,Fashion,Oversized Hoodie,1,446.87,$446.87,COD,2026-01-10
+ORD-1038,Randy Sharp,Yogyakarta,Groceries,Instant Noodles,5,494.01,"Rp 39,520,800",Cash On Delivery,01-22-2026
+ORD-1039,Elizabeth Mcclure,Semarang,Books,SQL for Beginners,4,133.3,533.2,Cash On Delivery,2024-11-22
+ORD-1040,Francisco Beltran,Bali,Home & Living,Air Fryer,5,44.89,"Rp 3,591,200",credit card,2024-08-28
+ORD-1012, Danny Daniels ,Semarang,Groceries,Instant Noodles,4,452.9,"Rp 28,985,600",Cash On Delivery,05-23-2025
+ORD-1042,Erin Dixon,Yogyakarta,Groceries,Instant Noodles,5,375.02,"Rp 30,001,600",credit card,09-25-2025
+ORD-1043,BRADLEY PARRISH,Medan,Groceries,Instant Noodles,2,490.46,"Rp 15,694,720",,01-07-2026
+ORD-1044,Julie Orozco,Surabaya,H0me & Living,Air Fryer,3,109.77,"Rp 5,268,960",QRIS,19/07/2025
+ORD-1045,Joshua Williams,Semarang,Sports,Yoga Mat,3,115.99,USD 347.97,Credit Card,2024-12-26
+ORD-1046,Jon Maxwell,Surabaya,Beauty,Lip Tint,1,284.16,USD 284.16,credit card,2025-12-13
+ORD-1047,Travis Ramsey,Yogyakarta,Electronics,Gaming Keyboard,1,464.8,USD 464.8,COD,09-14-2024
+ORD-1048,Angela White,Yogyakarta,Groceries,Instant Noodles,5,403.74,"Rp 32,299,200",COD,10-26-2024
+ORD-1049,Veronica Taylor,Bali,Electronics,Bluetooth Speaker,3,319.61,"Rp 15,341,280",Cash On Delivery,26/06/2025
+ORD-1050, Christopher Miles ,Yogyakarta,Gr0ceries,Cooking Oil,5,137.86,689.3,credit card,2025-01-10
+ORD-1051,Mrs. Alicia Glover,Medan,Groceries,Instant Noodles,2,246.34,USD 492.68,COD,02/07/2024
+ORD-1052,Adam Davis MD,Yogyakarta,Books,SQL for Beginners,4,279.81,USD 1119.24,E-Wallet,2026-02-04
+ORD-1053,Jessica Myers,Surabaya,Sports,Dumbbell Set,4,278.97,$1115.88,Bank Transfer,03/09/2024
+ORD-1054,April Camacho,Yogyakarta,Home & Living,Desk Lamp,5,475.68,2378.4,Bank Transfer,12-01-2025
+ORD-1055,Nicholas Black,Bandung,Groceries,Organic Coffee,3,117.6,USD 352.8,,2024-05-06
+ORD-1056,Christopher Campbell,Surabaya,Groceries,Instant Noodles,1,437.0,$437.0,credit card,01-11-2025
+ORD-1057,DAVID SCHMIDT,Medan,Beauty,Sunscreen,1,290.63,"Rp 4,650,080",Bank Transfer,05-09-2025
+ORD-1058,Louis Williams,,Groceries,Cooking Oil,2,388.97,$777.94,Cash On Delivery,05/03/2026
+ORD-1059,Tiffany Hodges,Jakarta,Fashi0n,,2,136.0,272.0,,2025-03-05
+ORD-1060,ERIC MCBRIDE,Surabaya,Home & Living,Office Chair,3,352.98,USD 1058.94,QRIS,10/03/2026
+ORD-1061,CHRISTIAN REYES,Surabaya,Sports,Yoga Mat,2,454.66,$909.32,Cash On Delivery,2025-12-17
+ORD-1062,Nancy Zavala,Medan,Home & Living,Office Chair,4,471.62,$1886.48,Credit Card,12-05-2025
+ORD-1063,Crystal Cole,Semarang,Books,Python Crash Course,5,475.64,2378.2,QRIS,08-12-2024
+ORD-1064,Robert Khan PhD,Bali,Sports,Dumbbell Set,4,484.68,1938.72,Credit Card,22/09/2024
+ORD-1065,Kristin Owens MD,Semarang,Beauty,Lip Tint,1,230.14,"Rp 73,644,799",E-Wallet,19/11/2025
+ORD-1066,Kenneth Weber,Bandung,Fashion,Denim Jacket,3,313.2,"Rp 15,033,600",Bank Transfer,16/03/2025
+ORD-1067,Thomas Turner,Jakarta,Books,Python Crash Course,2,356.34,$712.68,credit card,25/06/2025
+ORD-1068,Brittany Hicks,Yogyakarta,Fashion,Running Shoes,3,256.89,USD 770.67,credit card,21/08/2024
+ORD-1069, Toni Hawkins ,Bali,Home & Living,Air Fryer,3,467.45,USD 1402.35,Bank Transfer,06-26-2025
+ORD-1070,James Nguyen,Semarang,Beauty,Sunscreen,3,278.2,"Rp 13,353,600",credit card,07-19-2025
+ORD-1071,John Briggs,Bandung,Books,,4,196.11,784.44,E-Wallet,08-21-2025
+ORD-1072,KATHERINE WARD,Semarang,Groceries,Instant Noodles,1,265.35,265.35,COD,01/07/2025
+ORD-1073,Thomas Griffin,Surabaya,Books,SQL for Beginners,1,426.62,$426.62,COD,02-11-2026
+ORD-1074,MARISSA PARSONS,Semarang,Fashion,Denim Jacket,3,498.73,1496.19,COD,04-22-2026
+ORD-1075,Mason George,Yogyakarta,Electronics,Bluetooth Speaker,1,150.22,"Rp 2,403,520",Cash On Delivery,21/09/2025
+ORD-1076,Connie Clark,Bali,Fashion,Running Shoes,5,75.84,USD 379.2,Credit Card,07/03/2026
+ORD-1077,Dr. Anna Gonzalez MD,Surabaya,Home & Living,Office Chair,3,321.27,"Rp 15,420,960",credit card,28/01/2026
+ORD-1078, Meghan Jackson ,Semarang,Sports,Dumbbell Set,3,15.86,"Rp 761,280",COD,08-29-2024
+ORD-1079,Peter Pearson,Bali,Home & Living,Desk Lamp,5,401.96,$2009.8,QRIS,2025-05-07
+ORD-1080,Tamara Roy,Jakarta,Books,Data Analytics 101,3,395.36,1186.08,Bank Transfer,2025-06-03
+ORD-1081,Tom Walker,Semarang,Home & Living,Desk Lamp,3,457.45,USD 1372.35,Bank Transfer,05/12/2024
+ORD-1082,Marcus Park,Jakarta,Books,Python Crash Course,4,483.8,1935.2,Bank Transfer,03-03-2025
+ORD-1083,Michelle Phillips,Medan,Groceries,Cooking Oil,3,58.63,"Rp 2,814,240",Bank Transfer,2024-11-10
+ORD-1084,Anthony Myers,Yogyakarta,Home & Living,Office Chair,4,62.75,"Rp 4,016,000",Credit Card,2025-11-29
+ORD-1085,Jonathan Matthews,Bali,B00ks,Python Crash Course,5,212.47,1062.35,Credit Card,03-09-2025
+ORD-1086, Brandon Fernandez ,Bali,Home & Living,Desk Lamp,4,225.12,"Rp 14,407,680",Bank Transfer,2024-08-15
+ORD-1087,Nathaniel Davis,Jakarta,Electronics,,1,333.07,USD 333.07,QRIS,03-05-2026
+ORD-1088,Todd Hayes,Medan,Groceries,Cooking Oil,2,295.26,590.52,Credit Card,2026-01-19
+ORD-1089,Anita Sanchez,Surabaya,Electronics,Gaming Keyboard,1,70.24,$70.24,Credit Card,05/12/2024
+ORD-1090,Michael Duncan,Medan,Beauty,Sunscreen,3,259.05,777.15,Credit Card,2025-08-27
+ORD-1091,Patrick Peterson MD,Yogyakarta,Electronics,Wireless Mouse,4,424.41,USD 1697.64,Credit Card,28/12/2024
+ORD-1092,Melissa Miller,Yogyakarta,Books,Python Crash Course,5,357.52,USD 1787.6,Cash On Delivery,04/02/2026
+ORD-1093, Daniel Jimenez ,Yogyakarta,Fashion,Running Shoes,3,414.57,"Rp 19,899,360",Bank Transfer,12/06/2024
+ORD-1094,Jennifer Sanchez,Medan,Groceries,Organic Coffee,1,218.78,$218.78,Credit Card,06-01-2025
+ORD-1095,THOMAS HANEY,Surabaya,Groceries,Cooking Oil,4,434.71,"Rp 27,821,440",Bank Transfer,04-24-2026
+ORD-1096,Michael Bishop,Semarang,Electronics,Bluetooth Speaker,5,186.94,$934.7,Cash On Delivery,10/06/2025
+ORD-1097,Tyler Huang,Surabaya,Books,Python Crash Course,3,19.33,"Rp 927,840",,26/02/2026
+ORD-1098,Brenda Terry,Surabaya,Books,Python Crash Course,1,50.42,$50.42,credit card,01-03-2026
+ORD-1099,Nicole Bishop,Yogyakarta,Fashion,Oversized Hoodie,5,29.63,$148.15,Cash On Delivery,2025-06-01
+ORD-1100,Sara Roth,Medan,Electronics,Bluetooth Speaker,5,245.88,USD 1229.4,,05-04-2025
+ORD-1101,Kristina Pittman,,Home & Living,Air Fryer,1,8.83,8.83,COD,12-21-2025
+ORD-1102,Tiffany Martinez,Medan,Groceries,Cooking Oil,1,220.93,$220.93,E-Wallet,09/05/2024
+ORD-1103, Kenneth Parker ,Semarang,Home & Living,Desk Lamp,5,232.75,"Rp 18,620,000",Credit Card,09-06-2025
+ORD-1104,JACOB WILLIAMS,Medan,Books,SQL for Beginners,2,169.87,USD 339.74,Cash On Delivery,2025-09-04
+ORD-1105,Mary Mendoza,Bandung,Fashion,Running Shoes,2,90.88,"Rp 2,908,160",QRIS,2025-09-19
+ORD-1106,Christine Morton,Yogyakarta,Sports,Football,5,164.99,824.95,E-Wallet,02-04-2025
+ORD-1107, Terrence Martinez ,Semarang,Home & Living,Air Fryer,4,23.62,$94.48,QRIS,08/07/2025
+ORD-1108,Tonya Davis,Yogyakarta,Groceries,Cooking Oil,2,164.16,$328.32,Credit Card,28/07/2025
+ORD-1109,Kristine Martinez,Surabaya,Fashion,Oversized Hoodie,2,355.27,$710.54,Bank Transfer,14/10/2025
+ORD-1110,Patricia Parks,Bali,Books,SQL for Beginners,1,168.2,168.2,QRIS,12-30-2024
+ORD-1111,Danielle Kane,Medan,Books,Data Analytics 101,3,158.56,475.68,COD,05-07-2024
+ORD-1112,Bridget Trevino,Surabaya,Books,Python Crash Course,5,51.26,"Rp 4,100,800",Bank Transfer,01-03-2026
+ORD-1113,Alexandria Johnson,Bali,Fashion,Oversized Hoodie,1,151.42,USD 151.42,,2025-11-26
+ORD-1114,Kim Waters,Yogyakarta,Fashion,Oversized Hoodie,2,416.52,"Rp 13,328,640",Credit Card,04-25-2026
+ORD-1115,Maria Brown,Yogyakarta,Groceries,Cooking Oil,4,120.83,"Rp 7,733,120",QRIS,2025-09-21
+ORD-1116,Lauren Garza,Bandung,Home & Living,Air Fryer,5,266.09,$1330.45,QRIS,2024-07-17
+ORD-1117,Jeremy Stephens,Bandung,Sports,Yoga Mat,3,46.52,"Rp 2,232,960",QRIS,2025-06-04
+ORD-1118,Tina Robertson,Surabaya,Electronics,Bluetooth Speaker,1,201.24,201.24,,21/12/2024
+ORD-1003,David Tate,Bali,Fashion,Oversized Hoodie,3,459.11,USD 27546.6,E-Wallet,05/10/2025
+ORD-1120,Lucas Jensen,Jakarta,Sports,Football,5,266.25,$1331.25,Credit Card,2025-02-26
+ORD-1121,Justin Kelly,Surabaya,Beauty,Lip Tint,5,13.14,USD 65.7,,05-02-2025
+ORD-1122,Cheryl Morgan,Medan,Electronics,Gaming Keyboard,3,38.5,"Rp 1,848,000",,10-09-2025
+ORD-1123,John Chavez,Bali,Home & Living,Office Chair,1,181.76,$181.76,Credit Card,2024-12-02
+ORD-1124,Michael Duffy,Bali,H0me & Living,Office Chair,2,416.04,"Rp 13,313,280",credit card,08-27-2025
+ORD-1125,Adam Alexander Jr.,Semarang,Fashion,Oversized Hoodie,2,443.47,886.94,Cash On Delivery,16/09/2024
+ORD-1126,Latasha Price,Yogyakarta,Groceries,Organic Coffee,3,140.24,420.72,E-Wallet,28/05/2024
+ORD-1127,Angie Banks,Bandung,Sports,Dumbbell Set,1,364.91,364.91,Cash On Delivery,2024-07-21
+ORD-1128, Mark Tyler ,Semarang,Sports,Football,4,87.49,$349.96,Bank Transfer,03/08/2024
+ORD-1129,Rodney Brown,Bandung,Books,SQL for Beginners,3,258.98,$776.94,QRIS,03-31-2026
+ORD-1130,CHRISTINA GOMEZ,Yogyakarta,Books,SQL for Beginners,3,194.51,583.53,Bank Transfer,02-20-2025
+ORD-1131,Scott Dunn,Yogyakarta,Books,SQL for Beginners,2,480.46,USD 960.92,Cash On Delivery,2025-11-18
+ORD-1132,Emily Moreno,Bali,Home & Living,Office Chair,4,104.09,416.36,E-Wallet,2025-04-26
+ORD-1133,Corey Hicks,Bali,Books,Data Analytics 101,5,273.37,USD 1366.85,COD,04/10/2025
+ORD-1134,Janice Horton,Medan,Fashion,Running Shoes,1,183.64,"Rp 2,938,240",credit card,03-26-2026
+ORD-1135,Christine Crane,Bali,Groceries,Instant Noodles,5,41.51,USD 207.55,Cash On Delivery,25/11/2025
+ORD-1136,Brenda Farrell,Surabaya,Fashion,Running Shoes,5,455.8,2279.0,credit card,2026-03-16
+ORD-1137,Christopher Baird,Medan,Home & Living,Desk Lamp,5,140.85,704.25,COD,06-29-2025
+ORD-1138,Brandon Schultz,Bandung,Sports,Yoga Mat,1,45.21,45.21,QRIS,11-17-2024
+ORD-1139,Tamara Kemp,Bali,Home & Living,Air Fryer,2,403.32,806.64,Credit Card,10-21-2024
+ORD-1140,Dwayne Cooper,Surabaya,Home & Living,Office Chair,3,368.43,1105.29,Cash On Delivery,13/12/2024
+ORD-1141,Daniel Mcdonald,Semarang,Fashion,Oversized Hoodie,1,148.65,USD 148.65,credit card,30/10/2025
+ORD-1142, Bianca Young ,Yogyakarta,Beauty,Lip Tint,4,251.89,$1007.56,Cash On Delivery,05/09/2024
+ORD-1143,Andrew Edwards,Surabaya,Beauty,Lip Tint,4,146.45,$585.8,COD,2026-04-23
+ORD-1144,Paul Johnson,Surabaya,Fashion,Running Shoes,5,147.86,$739.3,QRIS,18/09/2024
+ORD-1145,John Todd,Medan,Groceries,Instant Noodles,5,469.78,"Rp 37,582,400",,2025-04-15
+ORD-1146,Angela Maldonado,Medan,Fashion,Denim Jacket,5,74.19,"Rp 5,935,200",COD,06-07-2025
+ORD-1147,MARK NELSON,,Home & Living,Air Fryer,1,187.34,"Rp 2,997,440",QRIS,02-22-2025
+ORD-1148,Brent Ward,Bali,B00ks,Python Crash Course,5,117.63,USD 588.15,COD,2026-03-04
+ORD-1149,David Becker,Bandung,Books,Data Analytics 101,2,14.37,$28.74,E-Wallet,30/08/2024
+ORD-1150,Paul Drake PhD,Bandung,Sports,Yoga Mat,5,165.9,829.5,E-Wallet,05-05-2026
+ORD-1151,Brett Perry,Semarang,Fashion,Oversized Hoodie,3,281.25,"Rp 13,500,000",Bank Transfer,2026-01-08
+ORD-1152,Billy Brooks,Yogyakarta,Groceries,Cooking Oil,3,147.46,$442.38,QRIS,06-21-2025
+ORD-1153,Robin Mercado,Bandung,Books,Data Analytics 101,3,462.38,USD 1387.14,QRIS,10-03-2024
+ORD-1154,Desiree Washington,Bandung,B00ks,Python Crash Course,2,125.02,USD 250.04,Credit Card,09-03-2024
+ORD-1155,Gregory Tucker,Surabaya,Sports,Yoga Mat,4,328.18,USD 1312.72,Bank Transfer,04/07/2025
+ORD-1156, Eduardo Ochoa ,Semarang,Books,Data Analytics 101,2,211.85,423.7,E-Wallet,2025-04-16
+ORD-1157,Aaron Mills,Medan,Electronics,Bluetooth Speaker,5,303.38,"Rp 24,270,400",Cash On Delivery,16/07/2024
+ORD-1158,Sheila Thompson,Jakarta,Groceries,Organic Coffee,3,85.43,USD 256.29,COD,25/05/2025
+ORD-1159,Stephanie Rodgers,Jakarta,Groceries,Cooking Oil,4,414.36,$1657.44,credit card,06-21-2025
+ORD-1160,Anna Lindsey,Surabaya,Fashion,Running Shoes,3,477.25,"Rp 22,908,000",COD,09/03/2025
+ORD-1161,Leslie Clay,Bali,Beauty,,5,461.94,"Rp 36,955,200",Bank Transfer,10-04-2025
+ORD-1162,Jon Wang,Semarang,Books,Python Crash Course,3,210.84,$632.52,COD,06-28-2024
+ORD-1163,CASEY WIGGINS,Medan,Sports,Football,3,43.66,"Rp 2,095,679",credit card,06-16-2024
+ORD-1164, Timothy Leonard ,Bandung,Fashion,Denim Jacket,5,246.97,1234.85,Cash On Delivery,07-13-2024
+ORD-1165,DIANE DAVID,Bali,Beauty,Sunscreen,1,374.17,"Rp 5,986,720",Credit Card,01-24-2025
+ORD-1166,Jeanette Williams DDS,Yogyakarta,Beauty,Face Serum,2,384.08,USD 768.16,E-Wallet,05-13-2024
+ORD-1010,Jade Miller,Bandung,Home & Living,Desk Lamp,2,496.46,"Rp 15,886,720",,15/08/2024
+ORD-1168,Laura Brown,Bali,Groceries,Organic Coffee,2,233.01,$466.02,QRIS,2024-06-30
+ORD-1169,Caitlin Robles,Bandung,Electronics,Wireless Mouse,5,21.62,$108.1,,08-10-2024
+ORD-1170,Anne Lopez,Bandung,Home & Living,Desk Lamp,5,162.86,"Rp 13,028,800",Bank Transfer,06-09-2025
+ORD-1171,Jason Krueger,Yogyakarta,Electronics,Gaming Keyboard,5,440.46,2202.3,Credit Card,2024-07-27
+ORD-1172,James Anderson,Surabaya,Beauty,Face Serum,3,191.35,"Rp 9,184,800",QRIS,03-31-2026
+ORD-1173,Thomas Avery,Yogyakarta,Sports,Football,2,197.27,$394.54,QRIS,18/10/2025
+ORD-1174,Mark Chang,Bali,Books,Python Crash Course,5,24.58,122.9,COD,2025-12-12
+ORD-1175,Steven Campbell,Bandung,Electronics,Wireless Mouse,2,481.23,962.46,COD,2024-06-13
+ORD-1176,Jacqueline Reyes,Yogyakarta,Beauty,Sunscreen,5,326.12,1630.6,E-Wallet,15/02/2025
+ORD-1177, Peter Drake ,Medan,Home & Living,Air Fryer,4,27.63,110.52,Cash On Delivery,2024-11-05
+ORD-1178,Tyler Cook,Yogyakarta,Sports,Yoga Mat,4,277.57,1110.28,COD,04-24-2026
+ORD-1179,Richard Blackwell,Medan,Books,Python Crash Course,4,96.1,$384.4,Credit Card,04-14-2025
+ORD-1180,KELLY TURNER,Surabaya,Beauty,Face Serum,2,38.64,"Rp 1,236,480",Credit Card,2024-07-06
+ORD-1181,JESSE REED,Medan,Electronics,Wireless Mouse,5,278.06,USD 1390.3,,2025-10-20
+ORD-1182,Wanda Williamson DDS,Surabaya,Electronics,Gaming Keyboard,2,124.28,USD 248.56,QRIS,09-17-2024
+ORD-1183, Kenneth Mccullough MD ,Yogyakarta,Fashion,Running Shoes,1,328.6,USD 6572.0,E-Wallet,09-09-2025
+ORD-1184,Brandon Wilson,Bandung,Gr0ceries,Instant Noodles,3,285.1,855.3,credit card,2026-04-13
+ORD-1185,Tara Herrera,Semarang,Electronics,Gaming Keyboard,3,450.16,"Rp 21,607,680",,07-01-2025
+ORD-1186,Dr. Anthony Lynch,Yogyakarta,Home & Living,Desk Lamp,5,124.03,$620.15,QRIS,10/12/2024
+ORD-1187,Hannah Williams,Medan,Home & Living,Desk Lamp,1,221.36,"Rp 3,541,760",E-Wallet,2024-05-31
+ORD-1188,Jeremy Snyder,Semarang,Home & Living,Office Chair,4,218.76,875.04,Cash On Delivery,02-21-2026
+ORD-1189, Veronica Vasquez ,Surabaya,Books,Python Crash Course,2,371.13,USD 742.26,E-Wallet,19/12/2025
+ORD-1190,JAMIE WASHINGTON,Medan,Sports,Football,5,206.98,"Rp 331,168,000",Cash On Delivery,2025-04-30
+ORD-1191,Sara Dixon,Yogyakarta,Electronics,Gaming Keyboard,5,453.08,$2265.4,credit card,2025-05-23
+ORD-1192,Leon Wilson,Bali,Home & Living,Air Fryer,3,244.69,USD 734.07,COD,2026-03-27
+ORD-1193,Jonathan Henderson,Semarang,Beauty,Sunscreen,5,193.05,USD 965.25,QRIS,25/07/2024
+ORD-1194,Jennifer Hutchinson,Semarang,Fashion,Running Shoes,3,149.27,447.81,credit card,01-14-2025
+ORD-1195,Nicole Valdez,Bali,Sports,Yoga Mat,5,498.65,$2493.25,E-Wallet,2026-02-03
+ORD-1196,Stefanie Bailey,Bali,Groceries,Instant Noodles,4,73.89,"Rp 4,728,960",E-Wallet,14/05/2024
+ORD-1197,Katherine Riley,Medan,Sports,Football,4,274.1,1096.4,COD,15/01/2025
+ORD-1009,Kristen Pena,Surabaya,Sports,Yoga Mat,5,491.89,USD 2459.45,QRIS,08-20-2024
+ORD-1199, Katherine Mays ,Jakarta,Beauty,Sunscreen,5,346.77,USD 1733.85,Bank Transfer,2024-10-19
+ORD-1200,Stephen Carpenter,Bali,H0me & Living,Air Fryer,2,262.95,$525.9,E-Wallet,04/03/2026
+ORD-1201,Elijah Durham,Medan,Home & Living,Office Chair,1,340.18,"Rp 5,442,880",credit card,2024-08-05
+ORD-1202, Christopher Williams ,Medan,Beauty,Lip Tint,2,97.26,USD 3890.4,credit card,07-24-2025
+ORD-1203,Lisa Morgan,Yogyakarta,Groceries,Cooking Oil,1,290.79,290.79,Credit Card,07-11-2025
+ORD-1204,Henry Sutton,Semarang,Sports,Dumbbell Set,5,61.54,$307.7,COD,31/05/2024
+ORD-1205,Matthew Moore,Yogyakarta,Home & Living,Desk Lamp,2,156.16,"Rp 4,997,120",E-Wallet,2025-10-11
+ORD-1206,Lauren Becker,Semarang,Books,Python Crash Course,2,279.68,"Rp 8,949,760",E-Wallet,15/07/2024
+ORD-1207,Kevin Mcpherson,Bali,Groceries,Instant Noodles,5,255.19,USD 1275.95,QRIS,05/05/2025
+ORD-1208,Julian Butler,Yogyakarta,Home & Living,Desk Lamp,5,147.89,739.45,Cash On Delivery,26/01/2026
+ORD-1209,BRITTANY CARPENTER,Semarang,Groceries,Organic Coffee,4,275.44,1101.76,credit card,05/04/2025
+ORD-1210,Jennifer Martin,Bali,Electronics,Bluetooth Speaker,1,388.94,USD 388.94,Bank Transfer,2025-05-29
+ORD-1211,Tracey Holmes,Surabaya,Groceries,Organic Coffee,1,287.19,$287.19,COD,05-26-2024
+ORD-1212,JAMES RODRIGUEZ,Bandung,Groceries,Instant Noodles,1,496.28,"Rp 7,940,480",credit card,12-17-2024
+ORD-1213,Michelle Torres,Semarang,Sports,Football,3,315.77,947.31,Credit Card,05/06/2025
+ORD-1214,JOSE EDWARDS,Bali,Beauty,Sunscreen,5,6.22,"Rp 497,600",COD,01-24-2025
+ORD-1215,Julie Best,Medan,Beauty,Face Serum,4,137.93,$551.72,QRIS,23/09/2024
+ORD-1216, Robert Brown ,Yogyakarta,Books,SQL for Beginners,1,66.5,66.5,credit card,2025-04-18
+ORD-1217,Brian Haley,Jakarta,Home & Living,Desk Lamp,3,128.94,"Rp 6,189,120",E-Wallet,25/08/2024
+ORD-1218,SHERRI REILLY,Bali,Books,Data Analytics 101,1,110.64,"Rp 1,770,240",,2025-10-09
+ORD-1219,Deborah Hart,Surabaya,Beauty,Face Serum,2,194.62,USD 389.24,Bank Transfer,12-17-2024
+ORD-1220,Michael Jarvis,Surabaya,Books,Data Analytics 101,1,267.6,"Rp 4,281,600",COD,2025-06-23
+ORD-1221,Susan Moreno,Yogyakarta,Electronics,Wireless Mouse,2,377.46,USD 754.92,Bank Transfer,10-21-2024
+ORD-1222,DAKOTA DANIELS,Surabaya,Sports,Football,5,146.04,730.2,credit card,01-24-2025
+ORD-1223,Steven Sullivan,Medan,Groceries,Organic Coffee,4,196.01,"Rp 12,544,640",Credit Card,2025-04-07
+ORD-1224, ALEX BELL ,Surabaya,Books,Data Analytics 101,4,477.45,1909.8,,2024-09-05
+ORD-1225,Anna Bryan,Bandung,Sports,Dumbbell Set,4,352.4,USD 1409.6,Bank Transfer,2026-02-13
+ORD-1226,Amanda Robbins,Jakarta,Beauty,Lip Tint,1,158.53,$158.53,credit card,22/02/2025
+ORD-1227, DAVID PITTMAN ,Yogyakarta,Books,Python Crash Course,2,64.12,USD 128.24,Bank Transfer,06-20-2024
+ORD-1228,Sarah Davis,Medan,Books,SQL for Beginners,1,386.86,"Rp 6,189,760",Credit Card,2026-03-25
+ORD-1229,Rebecca Butler,Jakarta,H0me & Living,,4,430.38,$1721.52,Cash On Delivery,2026-01-23
+ORD-1230,Sandra Summers,Semarang,Groceries,Organic Coffee,2,27.76,"Rp 888,320",Credit Card,18/10/2024
+ORD-1231,John Schroeder,Bali,Fashion,Running Shoes,3,139.27,"Rp 6,684,960",Credit Card,2025-05-05
+ORD-1232,Charles Schwartz,Surabaya,Beauty,Sunscreen,3,167.01,501.03,Cash On Delivery,04-20-2026
+ORD-1233,Dr. Anna Le MD,Jakarta,Beauty,Face Serum,5,381.44,$1907.2,credit card,2025-09-20
+ORD-1234,Corey Carter,Bandung,Electronics,Gaming Keyboard,4,425.26,1701.04,E-Wallet,08-19-2024
+ORD-1235,Maria Bryant,Medan,Fashion,Denim Jacket,4,351.92,$1407.68,Credit Card,09/07/2024
+ORD-1236,Jonathan Miller,Semarang,Fashion,Oversized Hoodie,3,134.19,USD 402.57,COD,24/05/2025
+ORD-1237,Dustin Powers,Jakarta,Groceries,Cooking Oil,1,81.93,"Rp 1,310,880",Cash On Delivery,2025-06-21
+ORD-1238,Scott Fisher,Jakarta,Electronics,Wireless Mouse,2,404.76,USD 809.52,credit card,15/05/2025
+ORD-1239,Erica Sanchez,Yogyakarta,Beauty,Lip Tint,1,340.21,"Rp 5,443,360",QRIS,31/05/2024
+ORD-1240,CHARLES WILLIAMS,Surabaya,Groceries,,1,10.92,10.92,COD,2024-12-01
+ORD-1241,Garrett Waters,Semarang,Electronics,Wireless Mouse,1,102.89,$102.89,QRIS,08-15-2025
+ORD-1242,Mark Boyd,Bandung,Sports,Dumbbell Set,4,250.58,USD 1002.32,credit card,03/09/2025
+ORD-1243,Heather Mason,Bandung,Beauty,Sunscreen,5,242.12,$1210.6,COD,2026-01-23
+ORD-1020,Brandy Anthony,Surabaya,Groceries,Cooking Oil,3,242.44,727.32,E-Wallet,28/04/2025
+ORD-1245,Kimberly Anderson,Bali,Beauty,Lip Tint,3,384.59,$1153.77,credit card,2025-12-01
+ORD-1246,Katherine Reyes,Semarang,Fashion,Denim Jacket,4,180.63,722.52,COD,2026-03-25
+ORD-1247,Jeffrey Taylor,Jakarta,Sp0rts,Yoga Mat,5,474.44,"Rp 759,104,000",Credit Card,02/12/2024
+ORD-1248,Alejandro Williams,Surabaya,Sports,Yoga Mat,2,173.68,$347.36,,2025-07-12
+ORD-1249,Heather Ramirez,Surabaya,Groceries,Instant Noodles,1,189.93,"Rp 3,038,880",Bank Transfer,05-02-2026
+ORD-1250,Leslie Brown,Medan,Fashion,Denim Jacket,5,348.31,USD 1741.55,QRIS,04-07-2026
+ORD-1251,JACQUELINE BELL,Semarang,Electronics,Gaming Keyboard,5,198.84,USD 994.2,Cash On Delivery,09-16-2025
+ORD-1252,Timothy Reyes,Semarang,Electronics,Wireless Mouse,3,491.28,$1473.84,COD,2024-09-28
+ORD-1253, Sarah Jackson ,Yogyakarta,Fashion,Denim Jacket,1,178.49,"Rp 2,855,840",COD,2025-10-13
+ORD-1254,Tiffany Ramirez,Bandung,Beauty,Face Serum,4,395.42,1581.68,E-Wallet,10-27-2025
+ORD-1255, Jamie Mccall ,Jakarta,Electronics,,3,89.2,$267.6,Bank Transfer,10/12/2024
+ORD-1256,TIMOTHY LANG,Bandung,Books,Data Analytics 101,5,445.43,2227.15,E-Wallet,2025-11-23
+ORD-1257,Melissa Johnson,Jakarta,Home & Living,Desk Lamp,1,29.57,"Rp 473,120",,11-06-2025
+ORD-1258,Allison Rangel,Semarang,Electronics,,2,320.9,"Rp 10,268,800",E-Wallet,2024-11-24
+ORD-1259,Zachary Duran,Semarang,Beauty,Sunscreen,2,225.66,$451.32,Bank Transfer,11/05/2024
+ORD-1260, Shannon Martin ,Yogyakarta,Home & Living,Office Chair,4,485.5,"Rp 31,072,000",QRIS,04-27-2025
+ORD-1261,BRIANA MORALES,Medan,Fashion,Running Shoes,3,44.08,"Rp 2,115,840",QRIS,05-07-2024
+ORD-1262,TRACY MARTIN,Bandung,Fashion,Oversized Hoodie,2,67.46,$134.92,QRIS,23/01/2025
+ORD-1263,Sean Christensen,,Sports,Dumbbell Set,5,166.43,$832.15,QRIS,20/04/2026
+ORD-1264,Steven Oneill,Jakarta,Fashion,Denim Jacket,5,293.43,"Rp 23,474,400",QRIS,2026-04-14
+ORD-1265,Ruben Pham,Medan,Books,SQL for Beginners,5,306.44,1532.2,Cash On Delivery,2024-11-03
+ORD-1266,EBONY WANG,Surabaya,Electronics,Gaming Keyboard,4,460.81,$1843.24,Bank Transfer,02/05/2025
+ORD-1267,Nicole Thompson,Bali,Fashion,Oversized Hoodie,3,487.24,"Rp 23,387,520",E-Wallet,12/01/2025
+ORD-1268, Christopher Weeks ,Bali,Groceries,Cooking Oil,3,411.4,$1234.2,Cash On Delivery,08-25-2025
+ORD-1269,CHRISTINA SMITH,Bandung,Groceries,Organic Coffee,1,128.5,$128.5,Bank Transfer,11/11/2025
+ORD-1270,Jessica Norris,Medan,Fashion,,4,299.05,$1196.2,Bank Transfer,2026-01-26
+ORD-1271,Andrew Banks,Bali,Beauty,Face Serum,2,427.64,$855.28,credit card,2025-06-15
+ORD-1272,Michelle Johnson,Surabaya,Fashion,Denim Jacket,2,302.57,"Rp 9,682,240",COD,2025-05-26
+ORD-1273,Christopher Johnson,Medan,Beauty,Sunscreen,2,236.02,472.04,,03-14-2025
+ORD-1274,Joseph Bennett,Surabaya,Sports,Football,3,152.75,458.25,COD,2026-03-31
+ORD-1275,Wanda Rice,Bandung,Sports,Yoga Mat,1,403.69,"Rp 6,459,040",,07-04-2025
+ORD-1276,Katelyn Howell,Bali,Books,Data Analytics 101,5,355.49,1777.45,credit card,10-17-2025
+ORD-1277,Isaac Johns,Bali,Groceries,Organic Coffee,5,94.66,473.3,QRIS,2025-03-15
+ORD-1278,Adam Miller,Surabaya,Fashion,Running Shoes,2,373.38,$746.76,Bank Transfer,26/04/2026
+ORD-1279,Michelle Randolph,Yogyakarta,Sports,Football,5,40.25,USD 201.25,Cash On Delivery,2026-04-19
+ORD-1280,AMBER CAMPBELL,Bandung,Home & Living,Air Fryer,5,446.96,2234.8,QRIS,06/01/2025
+ORD-1281,Joshua Mitchell,Semarang,Electronics,Bluetooth Speaker,3,108.64,"Rp 5,214,720",QRIS,2026-02-23
+ORD-1282,Jerry Castro,Surabaya,Beauty,Sunscreen,1,23.67,USD 23.67,QRIS,2026-02-26
+ORD-1283,Dr. Shane Smith,Semarang,Home & Living,Air Fryer,2,55.84,111.68,Credit Card,03-14-2026
+ORD-1284,Anthony Novak,Semarang,Books,Data Analytics 101,3,498.09,USD 1494.27,,18/07/2025
+ORD-1285, Julie Day ,Bali,Sports,Football,2,65.97,$131.94,Bank Transfer,05-06-2025
+ORD-1286,Joanne Myers,Surabaya,Books,Data Analytics 101,1,346.43,$346.43,E-Wallet,21/01/2025
+ORD-1287,Regina Kidd,Jakarta,Books,Data Analytics 101,5,138.64,$693.2,Cash On Delivery,12-12-2025
+ORD-1288,Juan Green,,Sports,Yoga Mat,3,416.59,"Rp 19,996,320",Credit Card,2024-07-14
+ORD-1289,Haley Marquez,Jakarta,Electronics,Wireless Mouse,1,453.91,453.91,QRIS,04-28-2026
+ORD-1290,Joy Johnson,Semarang,Beauty,Sunscreen,3,234.82,$704.46,Bank Transfer,2025-07-20
+ORD-1291,David Thompson,Yogyakarta,Groceries,Organic Coffee,1,426.74,426.74,Cash On Delivery,03-25-2025
+ORD-1292,Robert Avery,Yogyakarta,Beauty,Sunscreen,4,139.56,$558.24,COD,23/10/2025
+ORD-1293,Holly Knight,Yogyakarta,Groceries,Organic Coffee,1,210.93,USD 210.93,credit card,02-09-2026
+ORD-1294,Rebecca Cook,Bali,Beauty,Face Serum,4,223.14,USD 892.56,QRIS,2025-04-08
+ORD-1295,David Perkins,Bali,Books,SQL for Beginners,5,263.94,USD 1319.7,credit card,05-10-2025
+ORD-1296,Matthew Clarke,Yogyakarta,Sports,Football,1,10.76,10.76,QRIS,2026-01-31
+ORD-1297,Mary Thompson,Yogyakarta,Electronics,Gaming Keyboard,2,277.5,"Rp 8,880,000",E-Wallet,16/01/2026
+ORD-1298,ANDREW THOMAS,Semarang,Beauty,Lip Tint,1,55.81,USD 55.81,Credit Card,07/06/2025
+ORD-1299,Eric Kelly,Semarang,Beauty,Sunscreen,3,413.53,"Rp 19,849,440",Cash On Delivery,2025-11-21
+ORD-1300,Allen Irwin,Surabaya,Groceries,Cooking Oil,2,6.09,USD 12.18,Cash On Delivery,12/10/2024
+ORD-1301,William Jones,Semarang,Groceries,Cooking Oil,4,57.95,231.8,E-Wallet,05-07-2025
+ORD-1024,Brian King,Medan,Beauty,Face Serum,5,65.99,"Rp 5,279,200",credit card,16/01/2026
+ORD-1303,Rebecca Watts,Yogyakarta,Beauty,Lip Tint,2,347.45,"Rp 11,118,400",COD,2026-03-02
+ORD-1304,Michael Suarez,Bandung,Sports,Football,2,140.43,280.86,credit card,26/02/2026
+ORD-1305,Robert Rowland,Bali,Sports,Dumbbell Set,5,318.13,USD 1590.65,Bank Transfer,2025-05-12
+ORD-1306,Bradley Mooney,Bali,Books,Python Crash Course,3,356.62,1069.86,COD,14/06/2025
+ORD-1307,NICOLE HARRIS,Bandung,Beauty,Face Serum,5,57.7,288.5,Bank Transfer,15/07/2024
+ORD-1308,CLAIRE ORTIZ,Jakarta,Electronics,Gaming Keyboard,3,105.98,"Rp 5,087,040",Cash On Delivery,10-29-2025
+ORD-1309,Karen Moore,Semarang,Groceries,Cooking Oil,3,348.0,20880.0,COD,2025-04-22
+ORD-1310,Lonnie Vasquez,Medan,Groceries,Instant Noodles,2,456.19,USD 912.38,Cash On Delivery,03-31-2025
+ORD-1311,Erin Stevens,Jakarta,Fashi0n,Denim Jacket,1,97.55,97.55,E-Wallet,2024-12-30
+ORD-1312,Paul Sims,Bali,Beauty,Lip Tint,2,24.77,49.54,Cash On Delivery,02/04/2026
+ORD-1313,Evan Maldonado,Bandung,Books,SQL for Beginners,5,113.88,USD 569.4,E-Wallet,2025-12-31
+ORD-1022,Richard Chapman,Semarang,Home & Living,Air Fryer,3,113.13,USD 339.39,QRIS,06-29-2025
+ORD-1315,Anna Hampton,Semarang,Sports,Football,2,479.65,959.3,Credit Card,09-16-2025
+ORD-1316,Ryan Fry,Jakarta,Sports,Dumbbell Set,4,26.71,$106.84,credit card,06-03-2025
+ORD-1317,John Pierce,Bali,B00ks,Data Analytics 101,4,418.65,USD 1674.6,QRIS,2024-08-19
+ORD-1318,Dominique Fowler,Jakarta,Books,SQL for Beginners,1,48.32,"Rp 773,120",Cash On Delivery,2024-09-12
+ORD-1319,Heather Dickson,Medan,Beauty,Sunscreen,1,197.8,$197.8,Credit Card,2026-04-02
+ORD-1320,Teresa Ayala,Yogyakarta,Sports,Yoga Mat,3,394.51,USD 1183.53,E-Wallet,12/11/2025
+ORD-1321,Kelly Stuart,Semarang,Beauty,Lip Tint,3,480.27,USD 1440.81,QRIS,2026-02-02
+ORD-1322,Kathleen Herman,Bali,Electronics,Gaming Keyboard,5,200.07,USD 1000.35,COD,07-19-2024
+ORD-1323,Julie Butler,Jakarta,Fashion,Denim Jacket,3,101.19,$303.57,QRIS,2026-01-23
+ORD-1324,Jordan Mathews DDS,Bandung,Electronics,Bluetooth Speaker,1,102.72,USD 102.72,COD,08-07-2024
+ORD-1325,John Castro,Surabaya,Beauty,,5,331.41,USD 33141.0,QRIS,02-10-2025
+ORD-1326,OSCAR RAY,Yogyakarta,Books,Python Crash Course,4,141.96,$567.84,E-Wallet,27/04/2026
+ORD-1327,Mrs. Laura Ware,Bali,Sports,Yoga Mat,3,430.06,$25803.600000000002,COD,2025-12-16
+ORD-1328,Melissa King,Medan,Sports,Dumbbell Set,5,110.32,551.6,E-Wallet,2026-02-11
+ORD-1329,MATTHEW GILL,Semarang,Sports,Football,1,201.41,USD 201.41,Cash On Delivery,06-27-2025
+ORD-1330, Kent Buck ,Semarang,Sports,Football,2,369.28,USD 738.56,E-Wallet,04/12/2025
+ORD-1331, Kenneth Campbell ,Bali,Groceries,Instant Noodles,4,237.49,949.96,Bank Transfer,17/04/2025
+ORD-1332,John Davidson,Bali,Home & Living,Office Chair,5,287.23,USD 1436.15,QRIS,16/04/2026
+ORD-1333,JESSICA DAVID,Yogyakarta,Home & Living,Air Fryer,4,397.37,USD 1589.48,credit card,08-19-2025
+ORD-1334,Charles Boyd,Yogyakarta,H0me & Living,Office Chair,1,332.25,"Rp 5,316,000",COD,22/04/2025
+ORD-1335, Timothy Sanders ,Medan,Electronics,Wireless Mouse,5,298.21,"Rp 23,856,800",credit card,2024-11-09
+ORD-1336,Terry Johnson,Jakarta,Sports,Football,1,439.86,USD 439.86,credit card,10-22-2024
+ORD-1337,Brandon Conner,Bandung,Beauty,Lip Tint,2,398.33,$796.66,COD,2025-01-02
+ORD-1338,Sara Carroll,Yogyakarta,Beauty,Face Serum,1,13.2,$13.2,QRIS,10-03-2025
+ORD-1339,HEATHER COBB,Semarang,Sports,Football,1,51.13,"Rp 818,080",Credit Card,01-25-2026
+ORD-1340,Angela Bullock,Medan,Electronics,Gaming Keyboard,5,217.33,$1086.65,QRIS,17/09/2025
+ORD-1341,Kenneth Doyle,Yogyakarta,Home & Living,Air Fryer,2,455.49,$910.98,Bank Transfer,2025-05-01
+ORD-1342,Gina Logan,Yogyakarta,Beauty,Lip Tint,2,345.44,690.88,COD,20/02/2026
+ORD-1343,Ashley Baker,Medan,Books,SQL for Beginners,2,209.55,"Rp 6,705,600",E-Wallet,06-28-2025
+ORD-1344,James Craig,Jakarta,Groceries,Cooking Oil,1,375.17,$375.17,credit card,16/03/2025
+ORD-1345,Dennis Brown,Jakarta,Books,Data Analytics 101,1,412.51,"Rp 6,600,160",Bank Transfer,02/02/2026
+ORD-1028,ASHLEY DANIELS,Bandung,Beauty,Lip Tint,5,146.8,734.0,COD,09-24-2024
+ORD-1347,Daniel Woods,Surabaya,Groceries,Cooking Oil,5,260.33,1301.65,credit card,2025-03-21
+ORD-1348,Tina Stewart,Jakarta,Home & Living,Office Chair,4,205.7,822.8,Credit Card,2024-07-22
+ORD-1349,Scott Barnes,Jakarta,Groceries,Instant Noodles,2,305.15,610.3,Bank Transfer,2025-08-22
+ORD-1350,Jacob Hill,Yogyakarta,Electronics,Gaming Keyboard,3,438.68,"Rp 21,056,640",Cash On Delivery,01-15-2025
+ORD-1351,Kevin Hansen,Bandung,Sports,Yoga Mat,4,62.55,250.2,COD,2024-07-24
+ORD-1352,Larry Stanley,Surabaya,Electronics,Gaming Keyboard,3,127.89,USD 383.67,Credit Card,2024-12-15
+ORD-1353,William West,Surabaya,Home & Living,Desk Lamp,2,252.0,504.0,credit card,2025-05-13
+ORD-1354, Gwendolyn Andrews ,Semarang,Electronics,Wireless Mouse,1,339.53,339.53,Cash On Delivery,10-04-2025
+ORD-1355,Cameron Tyler,Medan,Sports,Dumbbell Set,4,95.52,$382.08,credit card,08-26-2024
+ORD-1356,Heidi Anderson,Bali,Beauty,Lip Tint,2,231.31,462.62,,2025-02-21
+ORD-1357,Victoria Herman,Surabaya,Groceries,Instant Noodles,2,276.54,553.08,Bank Transfer,2025-01-13
+ORD-1358,Rachel Watson,Semarang,Beauty,Sunscreen,4,94.05,"Rp 6,019,200",Credit Card,2024-11-04
+ORD-1359,Donald Miller,Semarang,Groceries,Cooking Oil,2,239.13,478.26,COD,2025-11-10
+ORD-1360,Matthew Rodriguez,Surabaya,Groceries,Cooking Oil,1,202.21,202.21,E-Wallet,06-06-2025
+ORD-1361,TAMMIE JOHNSON,Medan,Sports,Football,3,175.35,526.05,credit card,13/03/2025
+ORD-1362,Alex Garcia,Surabaya,Books,Python Crash Course,4,388.5,1554.0,E-Wallet,13/01/2026
+ORD-1363,JENNY PAYNE,Surabaya,Sports,Football,4,425.21,"Rp 27,213,440",Bank Transfer,2025-03-16
+ORD-1364,Richard Guerra,Jakarta,Beauty,Sunscreen,5,262.86,$1314.3,credit card,17/03/2025
+ORD-1365, William Moody ,Yogyakarta,Beauty,Face Serum,1,36.58,USD 36.58,Cash On Delivery,22/06/2025
+ORD-1366,Carolyn Simmons,Medan,Beauty,Sunscreen,2,127.46,254.92,QRIS,20/06/2025
+ORD-1367,Chase Mata,Bandung,Beauty,Lip Tint,3,276.53,"Rp 13,273,440",Cash On Delivery,2025-01-18
+ORD-1368,Gene Montgomery,Yogyakarta,Books,Python Crash Course,3,454.92,$1364.76,Bank Transfer,12/07/2025
+ORD-1369,TIFFANY SUAREZ,Semarang,Groceries,Organic Coffee,3,146.95,USD 440.85,E-Wallet,10-18-2024
+ORD-1370,Christine Clarke,Bali,Sports,Dumbbell Set,2,208.81,$417.62,COD,01-08-2025
+ORD-1371,Brooke Horn,Medan,Fashion,Denim Jacket,5,404.75,USD 2023.75,QRIS,08-19-2024
+ORD-1372,Tiffany Brady,Jakarta,Books,SQL for Beginners,5,229.12,$1145.6,,07-18-2025
+ORD-1373, BRADLEY SMITH ,Bandung,Fashion,Denim Jacket,4,364.92,1459.68,Bank Transfer,2024-12-30
+ORD-1374,SEAN MCDANIEL,Jakarta,Groceries,Organic Coffee,3,44.71,"Rp 2,146,080",Cash On Delivery,2025-04-18
+ORD-1375,Katherine Brown,Bandung,Electronics,Gaming Keyboard,2,195.47,USD 390.94,E-Wallet,09/06/2024
+ORD-1376,MICHELE SMITH,Medan,Books,SQL for Beginners,3,83.51,$250.53,Credit Card,03-18-2025
+ORD-1377,MICHAEL FREDERICK,Medan,Fashion,Oversized Hoodie,2,318.29,"Rp 10,185,280",Credit Card,05/01/2025
+ORD-1378,IAN CRAIG,Semarang,Fashion,Running Shoes,1,128.12,$128.12,COD,27/08/2024
+ORD-1379,Troy Miller,Bandung,Fashion,Running Shoes,5,395.34,$1976.7,Credit Card,15/09/2025
+ORD-1380,Heather Mack,Surabaya,Beauty,Lip Tint,3,273.65,USD 820.95,Bank Transfer,12/01/2026
+ORD-1381, Christina Morgan ,Bali,Fashion,Running Shoes,3,410.61,24636.6,Cash On Delivery,10-17-2025
+ORD-1382,Adrian Bryan,Bali,Fashion,Running Shoes,1,330.85,"Rp 5,293,600",E-Wallet,10-04-2025
+ORD-1383,Jessica Johnson,Semarang,Electronics,Wireless Mouse,5,331.15,"Rp 26,492,000",Credit Card,2026-03-05
+ORD-1384,Scott Kaufman,Jakarta,Sports,Football,5,131.69,"Rp 10,535,200",credit card,01/02/2026
+ORD-1385,Patricia Richardson,Jakarta,Electronics,Bluetooth Speaker,5,373.02,1865.1,QRIS,02/12/2024
+ORD-1386,Tami Arnold,Medan,Fashion,Denim Jacket,1,55.11,"Rp 881,760",COD,2025-01-12
+ORD-1387,William Decker,Jakarta,Groceries,Cooking Oil,5,182.19,USD 910.95,credit card,01/01/2026
+ORD-1388,David Miller,Surabaya,Sports,Dumbbell Set,3,451.73,USD 1355.19,E-Wallet,06-20-2025
+ORD-1389,Audrey Grant,Yogyakarta,Fashion,,5,463.44,USD 2317.2,Credit Card,29/12/2025
+ORD-1390, Curtis Parker ,Semarang,Home & Living,Desk Lamp,3,492.28,USD 1476.84,COD,2026-01-07
+ORD-1391,Sandra Cortez,Surabaya,Beauty,Sunscreen,2,73.51,USD 147.02,QRIS,13/10/2025
+ORD-1392,Warren Gonzalez,,Books,SQL for Beginners,4,90.59,"Rp 5,797,760",Cash On Delivery,06-05-2025
+ORD-1393,Richard Schwartz,Semarang,Electronics,Bluetooth Speaker,3,440.5,$1321.5,QRIS,10/04/2025
+ORD-1394,George Raymond,Surabaya,Books,SQL for Beginners,1,155.87,"Rp 2,493,920",Cash On Delivery,2025-06-28
+ORD-1395,Michelle Baker,Bandung,Groceries,Cooking Oil,5,254.84,"Rp 20,387,200",credit card,2024-05-09
+ORD-1396,Andrew Hunter,Bandung,Beauty,Lip Tint,4,388.04,USD 1552.16,E-Wallet,2025-03-31
+ORD-1397,STEPHEN RUIZ,Yogyakarta,Home & Living,Air Fryer,3,343.95,$1031.85,Bank Transfer,03-05-2025
+ORD-1398,Kevin Silva,Semarang,Fashion,Running Shoes,5,411.68,$2058.4,credit card,01/02/2026
+ORD-1007,NATHAN HUBER,Jakarta,Electronics,Wireless Mouse,5,463.73,USD 2318.65,Bank Transfer,10/07/2025
+ORD-1400,Michael Cisneros,Bali,Sports,Dumbbell Set,5,244.1,1220.5,Credit Card,02-16-2026
+ORD-1401, William James ,Yogyakarta,H0me & Living,,5,139.28,$696.4,COD,06/05/2026
+ORD-1402,Brian Smith,Surabaya,Groceries,Cooking Oil,4,119.43,"Rp 7,643,520",E-Wallet,06/10/2025
+ORD-1403,Abigail Jones,Bali,Books,Data Analytics 101,1,127.46,127.46,,08-15-2024
+ORD-1404,Matthew Rodriguez,Jakarta,Sports,Dumbbell Set,1,314.77,"Rp 5,036,320",Cash On Delivery,17/08/2024
+ORD-1405,Mrs. Linda Walker MD,Bandung,Electronics,Gaming Keyboard,4,262.76,1051.04,E-Wallet,06-23-2024
+ORD-1406,Robert Lawson,Surabaya,Fashion,Oversized Hoodie,2,292.61,USD 585.22,COD,10-16-2025
+ORD-1407,Laura Edwards,Surabaya,Sports,Yoga Mat,3,38.57,"Rp 1,851,360",QRIS,07-06-2025
+ORD-1408,STEVEN HEATH,Semarang,Home & Living,Air Fryer,3,80.22,USD 240.66,Cash On Delivery,2025-09-25
+ORD-1409,JOSEPH SALAS,Yogyakarta,Electronics,Bluetooth Speaker,1,345.63,"Rp 5,530,080",COD,01/11/2025
+ORD-1410,Alicia Key,Bandung,Fashion,Oversized Hoodie,1,207.25,USD 207.25,COD,2024-07-21
+ORD-1411,Richard Fox,Semarang,Beauty,Lip Tint,4,345.49,"Rp 22,111,360",Credit Card,12/07/2024
+ORD-1412,Joel Jackson,Medan,Books,Python Crash Course,5,270.4,USD 1352.0,Credit Card,08-27-2025
+ORD-1413,Natalie Collins,Bandung,Beauty,Lip Tint,1,281.06,281.06,Bank Transfer,02-13-2026
+ORD-1414,Adam Lucas,Semarang,Beauty,Sunscreen,5,459.92,USD 2299.6,COD,01-28-2026
+ORD-1415,Tina Dunn,Yogyakarta,Home & Living,Air Fryer,1,93.54,USD 93.54,Credit Card,10-02-2025
+ORD-1416,Joseph Watson,Yogyakarta,Electronics,Wireless Mouse,1,354.58,"Rp 5,673,280",COD,05-20-2024
+ORD-1417,Brett Taylor,Bandung,Electronics,Wireless Mouse,3,284.92,"Rp 13,676,160",credit card,08-16-2025
+ORD-1418,Stacey Harrison,Yogyakarta,Fashion,Oversized Hoodie,2,480.41,"Rp 307,462,400",E-Wallet,2024-08-28
+ORD-1419,JOSE YORK,Bandung,Sp0rts,Football,4,229.6,USD 918.4,Cash On Delivery,21/06/2024
+ORD-1420,Greg Lopez,Surabaya,Fashion,Oversized Hoodie,3,23.18,USD 69.54,Bank Transfer,2025-01-11
+ORD-1421,Jennifer Guerrero,Medan,Home & Living,Office Chair,5,288.28,1441.4,Bank Transfer,08-14-2025
+ORD-1422,Helen Nelson,Bali,Groceries,Organic Coffee,4,422.44,USD 1689.76,QRIS,2025-01-11
+ORD-1423,Keith Stevens,Semarang,Electronics,Gaming Keyboard,5,493.66,2468.3,COD,11/08/2025
+ORD-1424,Lisa Petersen,Medan,Sports,Football,4,262.25,$20980.0,credit card,09-07-2025
+ORD-1007,Meghan Mcintosh,Medan,Groceries,Organic Coffee,2,400.78,801.56,QRIS,09/11/2024
+ORD-1426,HEATHER KIDD,Yogyakarta,Home & Living,Air Fryer,5,277.25,USD 1386.25,COD,2025-12-24
+ORD-1427,Meagan Mcclain,Bali,Home & Living,Office Chair,4,458.5,"Rp 29,344,000",E-Wallet,2025-07-12
+ORD-1428,Cole Adams,Bandung,Electronics,Gaming Keyboard,3,284.65,853.95,Cash On Delivery,07-06-2024
+ORD-1429,Edward Lawrence,Medan,Fashion,Running Shoes,1,172.88,172.88,Cash On Delivery,04/08/2025
+ORD-1430,Larry Munoz,Yogyakarta,Home & Living,Office Chair,1,139.39,$139.39,QRIS,2025-08-26
+ORD-1431,Cameron Walker,Bandung,Electronics,Wireless Mouse,1,224.67,224.67,credit card,2025-10-12
+ORD-1432, Ashley Barber ,Yogyakarta,Fashion,Oversized Hoodie,5,339.98,$1699.9,COD,2024-07-24
+ORD-1433,CINDY WARD,Bali,Sports,Yoga Mat,3,236.1,USD 708.3,,2025-05-21
+ORD-1434,Erin Lopez,Bandung,Fashion,Running Shoes,3,268.48,$805.44,Bank Transfer,05/07/2024
+ORD-1435,Karen Kelly,Bandung,Home & Living,Office Chair,3,139.17,$417.51,Credit Card,09-28-2024
+ORD-1436,LINDA WARD,Bali,Beauty,Lip Tint,1,57.43,"Rp 918,880",Cash On Delivery,2025-08-05
+ORD-1437, Nathan Miller ,Semarang,Home & Living,Air Fryer,2,357.88,"Rp 11,452,160",QRIS,09-23-2024
+ORD-1438,STEPHANIE ROBERTS,Surabaya,Home & Living,Office Chair,4,237.92,951.68,Bank Transfer,2025-04-27
+ORD-1439,Alyssa Jones,Semarang,Electronics,Wireless Mouse,4,60.88,$243.52,Bank Transfer,15/12/2025
+ORD-1440,Denise Matthews,Bandung,Books,Data Analytics 101,3,268.71,USD 806.13,Cash On Delivery,27/05/2024
+ORD-1441,Kevin Bradley,Bali,Sports,Dumbbell Set,4,285.77,"Rp 18,289,280",COD,07/06/2024
+ORD-1442,Benjamin Turner,Jakarta,Sports,Dumbbell Set,3,279.77,"Rp 13,428,960",Cash On Delivery,09/11/2025
+ORD-1443,Kenneth Miller,Bali,Books,Python Crash Course,1,49.81,49.81,,2024-06-18
+ORD-1444,Jason Ortega,Bali,Sports,Dumbbell Set,2,106.8,213.6,Bank Transfer,07/08/2024
+ORD-1445,Mark Jackson,Jakarta,Sports,Yoga Mat,5,493.28,49328.0,Bank Transfer,04/05/2026
+ORD-1446,Ashley Mendez,Yogyakarta,Home & Living,Desk Lamp,2,218.7,"Rp 6,998,400",E-Wallet,06-01-2025
+ORD-1447,Kayla Graham,,Sports,Dumbbell Set,3,420.78,"Rp 20,197,440",,2025-10-05
+ORD-1448,Gina Brown,Bali,Fashion,Oversized Hoodie,2,322.91,"Rp 10,333,120",Cash On Delivery,17/07/2025
+ORD-1449,Nicholas Lozano,Semarang,Beauty,Sunscreen,3,116.74,350.22,COD,24/10/2024
+ORD-1450,Elizabeth Black,Jakarta,Electronics,Gaming Keyboard,4,353.92,1415.68,credit card,2025-04-05
+ORD-1451,Jerome Oliver,Bali,Electronics,Gaming Keyboard,5,48.78,$243.9,Credit Card,30/10/2024
+ORD-1452,Jesse Peterson,Surabaya,Sports,Yoga Mat,4,229.75,919.0,QRIS,19/04/2025
+ORD-1016, Katie Grimes ,Surabaya,Sports,Dumbbell Set,1,316.5,$316.5,QRIS,02-12-2026
+ORD-1454, Stanley Christensen ,Jakarta,Home & Living,Air Fryer,2,309.82,"Rp 9,914,240",Cash On Delivery,02/04/2026
+ORD-1455,Kara Farmer,,Fashion,Running Shoes,2,245.03,"Rp 7,840,960",credit card,08-10-2024
+ORD-1456,John Oliver,Surabaya,Fashion,Denim Jacket,4,364.37,USD 1457.48,Credit Card,2025-10-12
+ORD-1457,Laura Hernandez,Yogyakarta,Beauty,Sunscreen,4,374.34,1497.36,E-Wallet,05-22-2025
+ORD-1458, Destiny Padilla ,Medan,Beauty,Sunscreen,3,481.07,1443.21,COD,03-18-2026
+ORD-1459,Brian Perez,Bandung,Home & Living,,3,328.9,USD 986.7,COD,17/12/2025
+ORD-1460,Casey Brown,Bali,Electr0nics,Gaming Keyboard,1,416.69,$416.69,E-Wallet,2026-03-02
+ORD-1461,Brandon Warren,Bali,Electronics,Wireless Mouse,5,330.02,USD 1650.1,Credit Card,2025-09-07
+ORD-1462,Thomas Green,Surabaya,Books,Data Analytics 101,3,150.81,452.43,QRIS,11-24-2024
+ORD-1463,Harry Rodriguez,Surabaya,Groceries,Organic Coffee,3,389.67,USD 1169.01,QRIS,23/01/2026
+ORD-1464,Casey Mayer,,Fashion,,4,58.67,$234.68,Credit Card,07-16-2025
+ORD-1465,NICOLE RUSH,Jakarta,Books,SQL for Beginners,4,14.29,"Rp 914,560",COD,02/10/2024
+ORD-1023,Veronica Graham,Semarang,Sports,Football,4,241.68,"Rp 15,467,520",Credit Card,17/12/2024
+ORD-1467,RICHARD MILLER,Bali,Sports,Dumbbell Set,3,342.51,"Rp 16,440,480",Credit Card,30/08/2024
+ORD-1468,Zachary Hood,Surabaya,Home & Living,Office Chair,2,92.43,"Rp 2,957,760",COD,2025-02-12
+ORD-1469,DEBORAH NELSON,Bandung,Books,SQL for Beginners,2,74.27,"Rp 2,376,640",E-Wallet,2026-04-25
+ORD-1470,Jose Briggs,Yogyakarta,Groceries,Instant Noodles,1,23.34,USD 23.34,Credit Card,2024-09-08
+ORD-1471,Mary Smith,Medan,Fashion,Oversized Hoodie,1,369.05,$7381.0,Credit Card,31/12/2024
+ORD-1472,SARAH GONZALEZ,Jakarta,Groceries,Organic Coffee,4,307.56,USD 1230.24,E-Wallet,12-15-2024
+ORD-1473,Jillian Barker,Semarang,Groceries,Cooking Oil,4,165.5,$662.0,QRIS,06-21-2025
+ORD-1474,Amanda Larson DDS,Medan,Fashion,Running Shoes,2,349.67,"Rp 11,189,440",Credit Card,06-12-2025
+ORD-1475,Chad Johnson,Medan,Electronics,Bluetooth Speaker,1,8.14,USD 8.14,Bank Transfer,2025-03-29
+ORD-1476,Laura Torres,Jakarta,Books,SQL for Beginners,5,227.96,1139.8,Cash On Delivery,2025-10-14
+ORD-1477,Tyrone Shepard,Semarang,Electronics,Gaming Keyboard,2,99.99,USD 199.98,QRIS,02-12-2026
+ORD-1478,Angel Zuniga,Jakarta,Fashion,Oversized Hoodie,2,344.2,688.4,Credit Card,14/12/2024
+ORD-1479,Jacqueline Robertson,Semarang,Groceries,Instant Noodles,1,56.69,"Rp 907,040",Credit Card,2024-05-29
+ORD-1480,William Arias,Bandung,Home & Living,Air Fryer,2,374.81,USD 749.62,Credit Card,06/01/2025
+ORD-1481,Gary Smith,,Sports,Dumbbell Set,1,445.79,445.79,E-Wallet,2025-05-23
+ORD-1482,CHRISTOPHER BELL,Semarang,Fashion,Running Shoes,2,20.89,41.78,E-Wallet,03-14-2026
+ORD-1483,Cassandra Anderson,Jakarta,Groceries,Cooking Oil,5,453.26,"Rp 36,260,800",E-Wallet,10-26-2025
+ORD-1484,Lisa Hurst,Bandung,Home & Living,Desk Lamp,4,369.41,"Rp 23,642,240",Cash On Delivery,2024-12-24
+ORD-1485,Toni Lane PhD,Bali,Electronics,Bluetooth Speaker,5,21.64,$108.2,QRIS,09-06-2024
+ORD-1486, Judy Shaw ,Yogyakarta,Beauty,Face Serum,2,182.41,$364.82,COD,2025-10-12
+ORD-1487,Andrew Cameron,Jakarta,Beauty,Face Serum,4,96.55,$386.2,QRIS,25/05/2024
+ORD-1488, Marcus White ,Surabaya,Groceries,Instant Noodles,5,273.51,1367.55,COD,2024-07-01
+ORD-1489,Leah Hess,Medan,Electronics,Bluetooth Speaker,3,235.35,706.05,COD,2026-01-08
+ORD-1490,Nicole Fox,Semarang,Electronics,Gaming Keyboard,4,370.0,"Rp 23,680,000",COD,11-14-2025
+ORD-1491,Nancy Garcia,Bali,Electronics,Bluetooth Speaker,3,228.94,686.82,Cash On Delivery,03-03-2025
+ORD-1492,BRITTANY JACKSON,Bandung,Books,Data Analytics 101,2,446.49,$892.98,Bank Transfer,11/09/2024
+ORD-1493,PATRICK THOMAS,Bali,Beauty,Face Serum,2,262.74,$525.48,Cash On Delivery,06-20-2025
+ORD-1494,Corey Newton,Surabaya,Electronics,Wireless Mouse,2,418.3,"Rp 13,385,600",COD,06-02-2025
+ORD-1495,Jill Brown,Surabaya,Sports,Yoga Mat,3,90.01,USD 270.03,QRIS,09/07/2025
+ORD-1496,Steven Hughes,Bali,Fashion,Denim Jacket,5,146.2,731.0,QRIS,2024-09-22
+ORD-1497,Michael Wilkins,Surabaya,Beauty,Sunscreen,3,96.33,288.99,credit card,02-10-2026
+ORD-1498,Jacqueline Hodges,Bali,Electronics,Bluetooth Speaker,4,385.42,"Rp 24,666,880",Cash On Delivery,01/04/2026
+ORD-1499,Lisa Ward,Bali,Groceries,,2,400.79,$801.58,Credit Card,07-05-2024
+ORD-1500,Cheryl Cook,Bandung,Beauty,Lip Tint,2,225.76,USD 451.52,Cash On Delivery,2024-06-11
+ORD-1362,Alex Garcia,Surabaya,Books,Python Crash Course,4,388.5,1554.0,E-Wallet,13/01/2026
+ORD-1074,MARISSA PARSONS,Semarang,Fashion,Denim Jacket,3,498.73,1496.19,COD,04-22-2026
+ORD-1375,Katherine Brown,Bandung,Electronics,Gaming Keyboard,2,195.47,USD 390.94,E-Wallet,09/06/2024
+ORD-1156, Eduardo Ochoa ,Semarang,Books,Data Analytics 101,2,211.85,423.7,E-Wallet,2025-04-16
+ORD-1105,Mary Mendoza,Bandung,Fashion,Running Shoes,2,90.88,"Rp 2,908,160",QRIS,2025-09-19
+ORD-1395,Michelle Baker,Bandung,Groceries,Cooking Oil,5,254.84,"Rp 20,387,200",credit card,2024-05-09
+ORD-1378,IAN CRAIG,Semarang,Fashion,Running Shoes,1,128.12,$128.12,COD,27/08/2024
+ORD-1125,Adam Alexander Jr.,Semarang,Fashion,Oversized Hoodie,2,443.47,886.94,Cash On Delivery,16/09/2024
+ORD-1069, Toni Hawkins ,Bali,Home & Living,Air Fryer,3,467.45,USD 1402.35,Bank Transfer,06-26-2025
+ORD-1451,Jerome Oliver,Bali,Electronics,Gaming Keyboard,5,48.78,$243.9,Credit Card,30/10/2024
+ORD-1010,Ashley Larson,Bandung,Electronics,Gaming Keyboard,5,376.68,USD 1883.4,,08-30-2024
+ORD-1195,Nicole Valdez,Bali,Sports,Yoga Mat,5,498.65,$2493.25,E-Wallet,2026-02-03
+ORD-1407,Laura Edwards,Surabaya,Sports,Yoga Mat,3,38.57,"Rp 1,851,360",QRIS,07-06-2025
+ORD-1085,Jonathan Matthews,Bali,B00ks,Python Crash Course,5,212.47,1062.35,Credit Card,03-09-2025
+ORD-1372,Tiffany Brady,Jakarta,Books,SQL for Beginners,5,229.12,$1145.6,,07-18-2025
