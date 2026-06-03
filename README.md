@@ -54,36 +54,203 @@ The dataset represents fictional but realistic **e-commerce transaction data** a
 
 ## 🧹 Data Cleaning Process
 
-Data cleaning was performed using **MySQL**.
+Data cleaning was performed using **MySQL**. 
 
-### Cleaning Steps
+Data cleaning is the process of **identifying and correcting errors, inconsistencies, and inaccuracies** in a dataset to **enable reliable analysis**.
 
-✅ Removed duplicate rows
+### Step 1: Removing duplicates
 
-✅ Standardized customer name formatting
-
-✅ Fixed inconsistent product category names
+Detect duplicates using **Window Funtions** such as **ROW_NUMBER(), OVER(), PARTITION BY()**
 
 Example:
 
 ```text
-b00ks → books
-fashi0n → fashion
+WITH check_duplicates AS
+(
+SELECT *, ROW_NUMBER() OVER(PARTITION BY
+                                          order_id,
+                                          customer_name,
+                                          city, 
+                                          product_category, 
+                                          product_name, 
+                                          quantity, 
+                                          unit_price, 
+                                          total_price, 
+                                          payment_method,
+                                          order_date) AS row_num
+FROM sales_data_raw
+)
+
+SELECT *
+FROM check_duplicates
+WHERE row_num > 1;
 ```
 
-✅ Converted currency format
+Then **Delete** rows that have value > 1 in row_num column, because it means that rows is a duplicate.
 
 Example:
 
 ```text
-Rp 3,570,560 → 3570560
+DELETE
+FROM sales_data_staging
+WHERE row_num > 1;
 ```
 
-✅ Standardized date formatting
+### Step 2: Standardizing the data
 
-✅ Handled missing values
+Standardize the data, ensuring messy/inconsistent data follow a **single, consistent format, structure, and representation** so it can be **analyzed accurately** using **UPDATE** query **String Functions** such as **SUBSTRING(), TRIM(), REPLACE(), UPPER(), LOWER()**.
 
-✅ Resolved duplicate order IDs
+These are the types of data standardization that I do:
+
+✅ Text standardization
+
+Data were cleaned to improve formatting consistency by:
+
+- Removing leading and trailing whitespace using `TRIM()`
+
+Example:
+
+```text
+'   BIANCA YOUNG   ' → 'BIANCA YOUNG'
+```
+
+Query:
+
+```text
+UPDATE sales_data_staging3
+SET customer_name = TRIM(customer_name);
+```
+
+- Converting inconsistent capitalization into a standardized name format
+
+Example:
+
+```text
+'BIANCA YOUNG' → 'Bianca Young'
+```
+
+Query:
+
+UPDATE sales_data_staging3
+SET customer_name = CONCAT(LEFT(customer_name, 1), SUBSTRING(LOWER(customer_name), 2));
+
+- Fixed inconsistent product category names
+
+Example:
+
+```text
+'b00ks → books'
+'fashi0n → fashion'
+```
+
+Query:
+
+```text
+UPDATE sales_data_staging3
+SET product_category = REPLACE(product_category, '0', 'o');
+```
+
+- Standardized the currency format and converted it into USD
+
+Example:
+
+```text
+Rp 3,570,560 → 27546.60
+$20980.0 → 20980
+USD 1386.25 → 1386.25
+```
+
+Query:
+
+```text
+UPDATE sales_data_staging3
+SET total_price = SUBSTRING(total_price, 5)
+WHERE total_price LIKE 'USD%';
+
+UPDATE sales_data_staging3
+SET total_price = REPLACE(total_price, ',', '');
+
+UPDATE sales_data_staging3
+SET total_price = CAST(SUBSTRING(total_price, 3) AS UNSIGNED) / 16000
+WHERE total_price LIKE 'Rp%';
+```
+
+- Standardized the date format into YYYY-MM-DD format
+
+Example:
+
+```text
+12-18-2024 → 2024-12-18
+30/09/2024 → 2024-09-30
+```
+
+Query:
+
+```text
+UPDATE sales_data_staging3
+SET order_date = REPLACE(order_date, '/', '-')
+WHERE order_date LIKE '%/%';
+
+SELECT
+	order_date,
+    SUBSTRING_INDEX(order_date, '-', 1) AS D1,
+    SUBSTRING_INDEX(SUBSTRING_INDEX(order_date, '-', 2), '-', -1) AS D2,
+    SUBSTRING_INDEX(order_date, '-', -1) AS D3
+FROM sales_data_staging3
+ORDER BY 1;
+
+UPDATE sales_data_staging3
+SET order_date =
+    CASE
+        WHEN CAST(SUBSTRING_INDEX(order_date, '-', 1) AS UNSIGNED) > 12 THEN STR_TO_DATE(order_date, '%d-%m-%Y')
+		ELSE STR_TO_DATE(order_date, '%m-%d-%Y')
+    END
+WHERE order_date REGEXP '2024$|2025$|2026$';
+```
+
+✅ Data type standardization
+
+Query:
+
+```text
+ALTER TABLE sales_data_staging3
+MODIFY COLUMN order_date DATE;
+
+ALTER TABLE sales_data_staging3
+MODIFY COLUMN total_price DECIMAL(10,2);
+```
+
+### Step 3: Treating NULL and Blank Values
+
+Query:
+
+```text
+UPDATE sales_data_staging3
+SET city = 'Unknown'
+WHERE city = '';
+
+UPDATE sales_data_staging3
+SET product_name = 'Missing Product'
+WHERE product_name = '';
+
+UPDATE sales_data_staging3
+SET payment_method = 'Unknown'
+WHERE payment_method = '';
+```
+
+### Step 4: Removing any columns or rows that are not relevant
+
+Previously, we have made one or two columns to help us clean the data, like **row_num** and **new_order_id**. Because it's not relevant anymore, we can simply remove it from the table.
+
+Query:
+
+```text
+ALTER TABLE sales_data_staging3
+DROP COLUMN row_num,
+DROP COLUMN row_num2,
+DROP COLUMN new_order_id,
+DROP COLUMN row_num3;
+```
 
 ---
 
