@@ -312,16 +312,34 @@ The Power BI dashboard includes:
 
 ## 💡 Key Insights
 
+## Executive Summary
+- Overall Performance
+- Total Revenue: 682.16K
+- Total Orders: 500
+- Average Order Value (AOV): 1.36K
+- Total Quantity Sold: 2K
+
+## Executive Insight
+The business generated strong revenue performance from a relatively moderate number of transactions, indicating that transaction value per order is reasonably healthy.
+
+## Executive Recommendation
+Management should focus on increasing order frequency while maintaining average order value through bundling strategies and customer retention campaigns.
+
+---
+
+### Overall Performance
+
 ## 1. Revenue by Product Category
 
 ### Business Question
 Which product category generates the highest revenue?
 
 ### Key Insight
-The analysis revealed that certain product categories contribute significantly more revenue than others, indicating stronger customer demand and higher transaction values.
+**Sports** is the strongest-performing category **(~0.21M revenue)** and significantly outperforms all other categories. **Fashion** ranks second **(~0.14M)**, while **Books** contributes the least revenue.
 
 ### Business Recommendation
-Management should prioritize inventory allocation, promotions, and marketing investment toward high-performing categories while reassessing strategies for underperforming segments.
+Management should prioritize inventory allocation, promotions, and marketing investment for Sport products since Sports is the highest revenue driver.
+Management should also reassess low-performing categories by reviewing its pricing strategy, testing some kind of bundle offers to increase contribution, and evaluating its product assortment.
 
 ---
 
@@ -331,10 +349,11 @@ Management should prioritize inventory allocation, promotions, and marketing inv
 Which cities contribute the most revenue?
 
 ### Key Insight
-Sales performance is concentrated in several high-performing cities, indicating regional differences in purchasing power and customer demand.
+**Bali and Jakarta** are the highest revenue-contributing cities **(~0.14M each)**, followed by Medan. Meanwhile, **Bandung** contributes significantly less revenue.
 
 ### Business Recommendation
-The company should strengthen operations and marketing efforts in top-performing cities while exploring growth opportunities in lower-performing markets through localized campaigns and service improvements.
+The company should strengthen operations and marketing efforts in top-performing cities, focusing on faster delivery, loyalty campaigns, and targeted ads in Bali and Jakarta.
+The company should also investigate the underperforming cities by analyzing its customer demands, evaluating its logistics limitations, and launching localized promotions to increase its contributions.
 
 ---
 
@@ -344,10 +363,10 @@ The company should strengthen operations and marketing efforts in top-performing
 How do customers prefer to pay?
 
 ### Key Insight
-Customer payment behavior reveals clear preferences for certain payment methods, reflecting convenience and trust factors in purchasing decisions.
+**Cash On Delivery (COD)** is the most preferred payment method **(29.2%)**, followed closely by **Credit Card (25.8%)**.
 
 ### Business Recommendation
-Management should optimize checkout experience for preferred payment methods and consider incentives to increase adoption of cost-efficient payment channels.
+Management should optimize the checkout experience for COD and Credit Card. Since these drive most transactions, reducing payment friction and improving checkout UX can help.
 
 ---
 
@@ -357,101 +376,37 @@ Management should optimize checkout experience for preferred payment methods and
 How has sales performance changed over time?
 
 ### Key Insight
-Revenue trends help identify periods of growth, stagnation, or decline, providing visibility into business performance and seasonal patterns.
+Monthly sales performance fluctuates significantly, with notable peaks reaching **67.46K** and several sharp declines near the end of the timeline. This suggests that there is inconsistent revenue momentum and a possibility of operational or demand instability.
 
 ### Business Recommendation
-Management should identify successful factors behind high-performing periods and replicate those strategies while investigating causes behind declining performance.
+Management should investigate drivers of high-performing months and analyze the factors that contributed to revenue spikes like promotions, holidays, campaigns, and pricing.
 
 ---
 
-## 5. Monthly Order Volume Trend
-
-### Business Question
-How does customer purchasing volume change over time?
-
-### Key Insight
-Order volume trends provide insight into customer demand fluctuations and operational workload requirements.
-
-### Business Recommendation
-The company should align inventory planning and operational capacity with seasonal demand trends to minimize stock shortages and operational bottlenecks.
-
----
-
-## 6. Top Selling Products Analysis
+## 5. Top Selling Products Analysis
 
 ### Business Question
 Which products have the highest customer demand?
 
 ### Key Insight
-A small number of products contribute disproportionately to total sales volume, indicating strong product-market fit and customer preference.
+Several products show significantly stronger purchase volume, with **Gaming** products leading demand **(97 units)**, followed by **Sunscreen** and **Cooking-related products**. This indicates customer demand is concentrated in specific product types, and product popularity does not always equal the highest revenue.
 
 ### Business Recommendation
-Management should maintain inventory availability and promotional focus for top-selling products while evaluating low-performing products for optimization.
+Management should maintain inventory availability and promotional focus for top-selling products while evaluating low-performing products for optimization. Management can also cross-sell related items, for example: gaming accessories, sports bundles, and skincare bundles.
 
 ---
 
-## 7. High-Value Customer Analysis
 
-### Business Question
-Who are the highest spending customers?
-
-### Key Insight
-The analysis identified a segment of high-value customers contributing substantial revenue, suggesting opportunities for customer retention and loyalty programs.
-
-### Business Recommendation
-The business should implement personalized offers, loyalty rewards, or targeted engagement strategies to maximize customer lifetime value.
-
----
-
-## 8. Product Category Performance by City
-
-### Business Question
-What product categories perform best in each city?
-
-### Key Insight
-Customer preferences differ across geographic regions, with different product categories dominating sales in specific cities.
-
-### Business Recommendation
-Management should implement region-specific marketing strategies and optimize inventory distribution based on local customer demand.
-
----
-
-## 9. Revenue Contribution Analysis
-
-### Business Question
-How much does each city contribute to overall sales?
-
-### Key Insight
-The business relies heavily on several key markets, creating potential revenue concentration risk.
-
-### Business Recommendation
-Management should diversify revenue growth efforts by strengthening lower-performing markets while maintaining strong performance in core revenue regions.
-
----
-
-## 10. Outlier Transaction Detection
-
-### Business Question
-Are there unusual transactions that require investigation?
-
-### Key Insight
-Several transactions were significantly larger than typical purchase behavior, potentially representing bulk purchases, premium customers, or anomalies.
-
-### Business Recommendation
-Management should investigate high-value transactions to identify potential VIP customer segments, validate transaction legitimacy, and improve fraud monitoring.
-
----
-
-## 11. Monthly Sales Growth Analysis
+## 6. Monthly Sales Growth Analysis
 
 ### Business Question
 How fast is the business growing month-over-month?
 
 ### Key Insight
-Monthly growth analysis reveals changes in business momentum and highlights periods of accelerated growth or performance decline.
+Monthly sales growth demonstrates **high volatility**, with periods of strong revenue acceleration followed by sharp declines. Several months experienced substantial spikes in sales performance, while later periods show a significant slowdown, suggesting inconsistent business momentum.
 
 ### Business Recommendation
-Management should identify successful strategies during growth periods and investigate causes of slowdown to improve long-term business performance.
+Management should investigate the drivers behind high-performing months and analyze the factors that contributed to sales spikes and replicate successful initiatives. Improving revenue stability to reduce volatility by implementing customer retention programs, loyalty incentives, etc. Management should also strengthen forecasting and inventory planning since growth fluctuates considerably.
 
 ---
 
